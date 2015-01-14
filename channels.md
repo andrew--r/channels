@@ -21,6 +21,7 @@
 
 * [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры
 
+* [Alexander Panfilenok] (https://www.youtube.com/playlist?list=PL8K41qDQcvu8lxuocAlKV0CYp4bvLxZnT) - ASP.NET MVC
 
 ## Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
