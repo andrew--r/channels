@@ -21,6 +21,8 @@
 
 * [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры
 
+* [TechnologiesWeb](https://www.youtube.com/channel/UCwiiinc7aXEM1ZE2JQ9b46A) - Ruby, Javascript, SQL, хакинг, CMS
+
 
 ## Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
