@@ -3,6 +3,8 @@
 
 * [webtheory](http://www.youtube.com/user/WebTheory) — HTML, CSS, CoffeeScript, jQuery
 
+* [Илья Кантор](https://www.youtube.com/user/iliakan/) - Обучающие видео по Node.js, Express, Socket.io 
+
 * [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) — новости, обзоры, JavaScript, jQuery, CSS, HTML
 
 * [Веб-стандарты](http://www.youtube.com/user/wstdays) — доклады по современным фронтэнд-технологиям
