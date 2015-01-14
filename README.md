@@ -7,4 +7,4 @@
 
 
 [0]: http://forwebdev.ru
-[1]: 
+[1]: https://github.com/forwebdev/channels/blob/master/channels.md
