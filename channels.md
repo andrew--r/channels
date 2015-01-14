@@ -3,6 +3,10 @@
 
 * [webtheory](http://www.youtube.com/user/WebTheory) — HTML, CSS, CoffeeScript, jQuery
 
+* [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) — новости, обзоры, JavaScript, jQuery, CSS, HTML
+
+* [Веб-стандарты](http://www.youtube.com/user/wstdays) — доклады по современным фронтэнд-технологиям
+
 * [Magisters | Обучение современным профессиям](http://www.youtube.com/user/WebMagistersRu) — HTML5, CSS3, JavaScript, Bootstrap, PHP, Python
 
 * [Master-CSS](http://www.youtube.com/user/TheSWAT727) — PHP, HTML, веб-дизайн
@@ -12,6 +16,8 @@
 * [knowcity](http://www.youtube.com/user/ecroFeGushKa) — PHP, HTML, CSS, JavaScript, jQuery
 
 * [uWebDesign](http://www.youtube.com/user/uwebdesign) — WordPress, CSS, Sass, обзоры, подкасты
+
+* [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры
 
 
 ## Англоязычные каналы
