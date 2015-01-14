@@ -7,6 +7,8 @@
 
 * [Веб-стандарты](http://www.youtube.com/user/wstdays) — доклады по современным фронтэнд-технологиям
 
+* [RubyScreencastsRu](http://www.youtube.com/user/RubyScreencastsRu) — скринкасты по Ruby и Ruby on Rails
+
 * [Magisters | Обучение современным профессиям](http://www.youtube.com/user/WebMagistersRu) — HTML5, CSS3, JavaScript, Bootstrap, PHP, Python
 
 * [Master-CSS](http://www.youtube.com/user/TheSWAT727) — PHP, HTML, веб-дизайн
@@ -82,3 +84,7 @@
 * [Easy Learn Tutorial](http://www.youtube.com/user/easylearntutorial) — JavaScript
 
 * [Source Decoded](http://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg) — JavaScript
+
+* [Code Academy](http://www.youtube.com/channel/UCJciNQwwY31fpZJzs4Z2qMg) — Bootstrap, JavaScript, Ruby on Rails
+
+* [livelessons](http://www.youtube.com/user/livelessons) — NodeJS, Python, AngularJS
