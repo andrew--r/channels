@@ -13,6 +13,8 @@
 
 * [uWebDesign](http://www.youtube.com/user/uwebdesign) — WordPress, CSS, Sass, обзоры, подкасты
 
+* [WarEnek](http://www.youtube.com/playlist?list=PL6nBl5nc_zcoIBuLRi-L5IbcjbWUoYDHJ) — HTML, CSS
+
 
 ## Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
