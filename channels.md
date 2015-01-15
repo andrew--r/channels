@@ -22,7 +22,7 @@
 * [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры
 
 
-## Англоязычные каналы
+# Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
 
 * [Helping Develop](http://www.youtube.com/user/TheHelpingDevelop) — PHP, jQuery, HTML, CSS
