@@ -3,6 +3,8 @@
 
 * [webtheory](http://www.youtube.com/user/WebTheory) — HTML, CSS, CoffeeScript, jQuery
 
+* [Илья Кантор](https://www.youtube.com/user/iliakan/) - Обучающие видео по Node.js, Express, Socket.io 
+
 * [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) — новости, обзоры, JavaScript, jQuery, CSS, HTML
 
 * [Веб-стандарты](http://www.youtube.com/user/wstdays) — доклады по современным фронтэнд-технологиям
@@ -21,8 +23,10 @@
 
 * [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры
 
+* [TechnologiesWeb](https://www.youtube.com/channel/UCwiiinc7aXEM1ZE2JQ9b46A) - Ruby, Javascript, SQL, хакинг, CMS
 
-## Англоязычные каналы
+
+# Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
 
 * [Helping Develop](http://www.youtube.com/user/TheHelpingDevelop) — PHP, jQuery, HTML, CSS
@@ -88,3 +92,5 @@
 * [Code Academy](http://www.youtube.com/channel/UCJciNQwwY31fpZJzs4Z2qMg) — Bootstrap, JavaScript, Ruby on Rails
 
 * [livelessons](http://www.youtube.com/user/livelessons) — NodeJS, Python, AngularJS
+
+* [Ember.js NYC](https://www.youtube.com/user/EmberNYC) — Записи с Ember.js NYC Meetups
