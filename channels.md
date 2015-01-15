@@ -92,3 +92,5 @@
 * [Code Academy](http://www.youtube.com/channel/UCJciNQwwY31fpZJzs4Z2qMg) — Bootstrap, JavaScript, Ruby on Rails
 
 * [livelessons](http://www.youtube.com/user/livelessons) — NodeJS, Python, AngularJS
+
+* [Ember.js NYC](https://www.youtube.com/user/EmberNYC) — Записи с Ember.js NYC Meetups
