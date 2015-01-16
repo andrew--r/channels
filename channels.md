@@ -25,6 +25,9 @@
 
 * [TechnologiesWeb](https://www.youtube.com/channel/UCwiiinc7aXEM1ZE2JQ9b46A) - Ruby, Javascript, SQL, хакинг, CMS
 
+* [DeveloperStarter](https://www.youtube.com/user/DeveloperStarter) - курсы, лекции, и уроки по HTML, CSS, JavaScript, PHP, Java, Python, C++
+
+* [HexletUniversity](https://www.youtube.com/user/HexletUniversity) - курсы и лекции по JavaScript, Java, Computer Science
 
 # Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
