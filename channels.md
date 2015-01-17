@@ -29,6 +29,12 @@
 
 * [HexletUniversity](https://www.youtube.com/user/HexletUniversity) - курсы и лекции по JavaScript, Java, Computer Science
 
+* [JSPirates](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg) — JavaScript, Node.js
+
+* [RubyScreencastsRu](https://www.youtube.com/user/RubyScreencastsRu) — скринкасты по Ruby и Ruby on Rails
+
+* [Procode](http://www.youtube.com/user/easygamedev) — HTML5, GameDev
+
 # Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
 
