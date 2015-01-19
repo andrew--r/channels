@@ -3,7 +3,7 @@
 
 * [webtheory](http://www.youtube.com/user/WebTheory) — HTML, CSS, CoffeeScript, jQuery
 
-* [Илья Кантор](https://www.youtube.com/user/iliakan/) - Обучающие видео по Node.js, Express, Socket.io 
+* [Илья Кантор](https://www.youtube.com/user/iliakan/) - Обучающие видео по Node.js, Express, Socket.io
 
 * [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) — новости, обзоры, JavaScript, jQuery, CSS, HTML
 
@@ -34,6 +34,8 @@
 * [RubyScreencastsRu](https://www.youtube.com/user/RubyScreencastsRu) — скринкасты по Ruby и Ruby on Rails
 
 * [Procode](http://www.youtube.com/user/easygamedev) — HTML5, GameDev
+
+* [Fronthub](http://www.youtube.com/channel/UComo38nPQVCnkZFadQ9uc2A) — доклады конференций Front-hub
 
 # Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
