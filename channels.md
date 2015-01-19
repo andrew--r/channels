@@ -103,3 +103,7 @@
 * [livelessons](http://www.youtube.com/user/livelessons) — NodeJS, Python, AngularJS
 
 * [Ember.js NYC](https://www.youtube.com/user/EmberNYC) — Записи с Ember.js NYC Meetups
+
+* [Arjun Yonjan](https://www.youtube.com/user/YonjanArjun) — веб-дизайн, Bootstrap, jQuery, Sublime Text, PHP, HTML5, JavaScript, WordPress, Laravel, Angular
+
+* [DesignCode Blade](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng) — Bootstrap, jQuery, PHP, веб-дизайн, Laravel
