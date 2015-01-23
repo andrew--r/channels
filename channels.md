@@ -31,8 +31,6 @@
 
 * [JSPirates](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg) — JavaScript, Node.js
 
-* [RubyScreencastsRu](https://www.youtube.com/user/RubyScreencastsRu) — скринкасты по Ruby и Ruby on Rails
-
 * [Procode](http://www.youtube.com/user/easygamedev) — HTML5, GameDev
 
 * [Fronthub](http://www.youtube.com/channel/UComo38nPQVCnkZFadQ9uc2A) — доклады конференций Front-hub
