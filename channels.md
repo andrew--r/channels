@@ -35,6 +35,8 @@
 
 * [Fronthub](http://www.youtube.com/channel/UComo38nPQVCnkZFadQ9uc2A) — доклады конференций Front-hub
 
+* [404fest](https://www.youtube.com/user/404fest) — доклады конференций
+
 # Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
 
@@ -107,3 +109,12 @@
 * [Arjun Yonjan](https://www.youtube.com/user/YonjanArjun) — веб-дизайн, Bootstrap, jQuery, Sublime Text, PHP, HTML5, JavaScript, WordPress, Laravel, Angular
 
 * [DesignCode Blade](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng) — Bootstrap, jQuery, PHP, веб-дизайн, Laravel
+
+* [Mackenzie Child](https://www.youtube.com/user/mackenziechild) — скринкасты Ruby on Rails
+
+* [George Mcknight](https://www.youtube.com/user/geomck1967) — JavaScript, Meteor
+
+* [Confreaks](https://www.youtube.com/user/Confreaks) — Ruby конференции
+
+* [Mike Hibbert](https://www.youtube.com/user/MickeySoFine1972) — Ruby on Rails, Django
+
