@@ -3,7 +3,7 @@
 
 * [webtheory](http://www.youtube.com/user/WebTheory) — HTML, CSS, CoffeeScript, jQuery
 
-* [Илья Кантор](https://www.youtube.com/user/iliakan/) - Обучающие видео по Node.js, Express, Socket.io 
+* [Илья Кантор](https://www.youtube.com/user/iliakan/) - Обучающие видео по Node.js, Express, Socket.io
 
 * [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) — новости, обзоры, JavaScript, jQuery, CSS, HTML
 
@@ -31,9 +31,11 @@
 
 * [JSPirates](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg) — JavaScript, Node.js
 
-* [RubyScreencastsRu](https://www.youtube.com/user/RubyScreencastsRu) — скринкасты по Ruby и Ruby on Rails
-
 * [Procode](http://www.youtube.com/user/easygamedev) — HTML5, GameDev
+
+* [Fronthub](http://www.youtube.com/channel/UComo38nPQVCnkZFadQ9uc2A) — доклады конференций Front-hub
+
+* [404fest](https://www.youtube.com/user/404fest) — доклады конференций
 
 # Англоязычные каналы
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
@@ -98,8 +100,6 @@
 
 * [Source Decoded](http://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg) — JavaScript
 
-* [Code Academy](http://www.youtube.com/channel/UCJciNQwwY31fpZJzs4Z2qMg) — Bootstrap, JavaScript, Ruby on Rails
-
 * [livelessons](http://www.youtube.com/user/livelessons) — NodeJS, Python, AngularJS
 
 * [Ember.js NYC](https://www.youtube.com/user/EmberNYC) — Записи с Ember.js NYC Meetups
@@ -107,6 +107,18 @@
 * [Arjun Yonjan](https://www.youtube.com/user/YonjanArjun) — веб-дизайн, Bootstrap, jQuery, Sublime Text, PHP, HTML5, JavaScript, WordPress, Laravel, Angular
 
 * [DesignCode Blade](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng) — Bootstrap, jQuery, PHP, веб-дизайн, Laravel
+
+* [Mackenzie Child](https://www.youtube.com/user/mackenziechild) — скринкасты Ruby on Rails
+
+* [George Mcknight](https://www.youtube.com/user/geomck1967) — JavaScript, Meteor
+
+* [Confreaks](https://www.youtube.com/user/Confreaks) — Ruby конференции
+
+* [Mike Hibbert](https://www.youtube.com/user/MickeySoFine1972) — Ruby on Rails, Django
+
+* [realcsstricks](http://www.youtube.com/user/realcsstricks) — HTML, CSS, JavaScript, Sass, Screencast
+
+* [SitePoint](https://www.youtube.com/user/SitePoint) — HTML, CSS, JavaScript, Sass, Web Design
 
 * [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) — JavaScript, React
 
