@@ -107,3 +107,9 @@
 * [Arjun Yonjan](https://www.youtube.com/user/YonjanArjun) — веб-дизайн, Bootstrap, jQuery, Sublime Text, PHP, HTML5, JavaScript, WordPress, Laravel, Angular
 
 * [DesignCode Blade](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng) — Bootstrap, jQuery, PHP, веб-дизайн, Laravel
+
+* [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) — JavaScript, React
+
+* [React Conference](https://www.youtube.com/user/reactconf) — JavaScript, React
+
+* [JSConf](https://www.youtube.com/user/jsconfeu) — JavaScript, CSS
