@@ -1,10 +1,12 @@
-# Каналы для веб-разработчиков
-Коллекция YouTube-каналов для веб-разработчиков. Сделано для [«For Web»][0].
+# DEVCHANNELS
+A collection of useful  YouTube channels for web developers and web designers.
 
-Если вы знаете канал, которого нет в списке, мы будем рады пулл-реквесту от вас.
+Feel free to make a pull request if you know some missing channels.
 
-[Открыть список][1]
+[Open list][1] / [Русскоязычные каналы][2]
 
+Made with ♥ at "[For Web][0]"
 
 [0]: http://forwebdev.ru
-[1]: https://github.com/forwebdev/channels/blob/master/channels.md
+[1]: https://github.com/forwebdev/channels/blob/master/en.md
+[2]: https://github.com/forwebdev/channels/blob/master/ru.md
