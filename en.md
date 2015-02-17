@@ -1,28 +1,4 @@
-# Русскоязычные каналы
-* [Sorax](http://www.youtube.com/user/ArtSorax) — JavaScript, CSS, обзоры, подкасты
-
-* [webtheory](http://www.youtube.com/user/WebTheory) — HTML, CSS, CoffeeScript, jQuery
-
-* [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) — новости, обзоры, JavaScript, jQuery, CSS, HTML
-
-* [Веб-стандарты](http://www.youtube.com/user/wstdays) — доклады по современным фронтэнд-технологиям
-
-* [RubyScreencastsRu](http://www.youtube.com/user/RubyScreencastsRu) — скринкасты по Ruby и Ruby on Rails
-
-* [Magisters | Обучение современным профессиям](http://www.youtube.com/user/WebMagistersRu) — HTML5, CSS3, JavaScript, Bootstrap, PHP, Python
-
-* [Master-CSS](http://www.youtube.com/user/TheSWAT727) — PHP, HTML, веб-дизайн
-
-* [AutoLineX](http://www.youtube.com/user/IllyaLoshek) — PHP, HTML, CSS, jQuery, обзоры
-
-* [knowcity](http://www.youtube.com/user/ecroFeGushKa) — PHP, HTML, CSS, JavaScript, jQuery
-
-* [uWebDesign](http://www.youtube.com/user/uwebdesign) — WordPress, CSS, Sass, обзоры, подкасты
-
-* [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры
-
-
-## Англоязычные каналы
+# List of channels
 * [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
 
 * [Helping Develop](http://www.youtube.com/user/TheHelpingDevelop) — PHP, jQuery, HTML, CSS
@@ -85,6 +61,28 @@
 
 * [Source Decoded](http://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg) — JavaScript
 
-* [Code Academy](http://www.youtube.com/channel/UCJciNQwwY31fpZJzs4Z2qMg) — Bootstrap, JavaScript, Ruby on Rails
-
 * [livelessons](http://www.youtube.com/user/livelessons) — NodeJS, Python, AngularJS
+
+* [Ember.js NYC](https://www.youtube.com/user/EmberNYC) — Записи с Ember.js NYC Meetups
+
+* [Arjun Yonjan](https://www.youtube.com/user/YonjanArjun) — веб-дизайн, Bootstrap, jQuery, Sublime Text, PHP, HTML5, JavaScript, WordPress, Laravel, Angular
+
+* [DesignCode Blade](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng) — Bootstrap, jQuery, PHP, веб-дизайн, Laravel
+
+* [Mackenzie Child](https://www.youtube.com/user/mackenziechild) — скринкасты Ruby on Rails
+
+* [George Mcknight](https://www.youtube.com/user/geomck1967) — JavaScript, Meteor
+
+* [Confreaks](https://www.youtube.com/user/Confreaks) — Ruby конференции
+
+* [Mike Hibbert](https://www.youtube.com/user/MickeySoFine1972) — Ruby on Rails, Django
+
+* [realcsstricks](http://www.youtube.com/user/realcsstricks) — HTML, CSS, JavaScript, Sass, Screencast
+
+* [SitePoint](https://www.youtube.com/user/SitePoint) — HTML, CSS, JavaScript, Sass, Web Design
+
+* [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) — JavaScript, React
+
+* [React Conference](https://www.youtube.com/user/reactconf) — JavaScript, React
+
+* [JSConf](https://www.youtube.com/user/jsconfeu) — JavaScript, CSS
