@@ -36,3 +36,5 @@
 * [Fronthub](http://www.youtube.com/channel/UComo38nPQVCnkZFadQ9uc2A) — доклады конференций Front-hub
 
 * [404fest](https://www.youtube.com/user/404fest) — доклады конференций
+
+* [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ) - доклады конференций MoscowJS 
