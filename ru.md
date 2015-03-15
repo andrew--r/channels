@@ -40,3 +40,5 @@
 * [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ) - доклады конференций MoscowJS 
 
 * [Технопарк Mail.Ru Group](http://www.youtube.com/user/TPMGTU) - Канал проекта Технопарк Mail.Ru Group
+
+* [Web Applications Development] (https://www.youtube.com/channel/UCQu1ll4WgyxuxMVsdMl0AMw) - Канал с лекциями по веб разработке на ASP.NET MVC
