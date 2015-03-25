@@ -86,3 +86,5 @@
 * [React Conference](https://www.youtube.com/user/reactconf) — JavaScript, React
 
 * [JSConf](https://www.youtube.com/user/jsconfeu) — JavaScript, CSS
+
+* [Jakob Jenkov](https://www.youtube.com/user/jjenkov) — SVG
