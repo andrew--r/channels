@@ -42,3 +42,5 @@
 * [Технопарк Mail.Ru Group](http://www.youtube.com/user/TPMGTU) - Канал проекта Технопарк Mail.Ru Group
 
 * [WebMarik | Видео уроки](http://www.youtube.com/user/jquerymobilerussia) — jQuery Mobile
+
+* [Яндекс Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ) — Школа разработки инетрфейсов Яндекса
