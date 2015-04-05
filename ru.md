@@ -43,4 +43,4 @@
 
 * [WebMarik | Видео уроки](http://www.youtube.com/user/jquerymobilerussia) — jQuery Mobile
 
-* [Яндекс Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ) — Школа разработки инетрфейсов Яндекса
+* [Яндекс Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ) — Школа разработки интерфейсов Яндекса
