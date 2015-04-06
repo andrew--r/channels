@@ -88,3 +88,5 @@
 * [JSConf](https://www.youtube.com/user/jsconfeu) — JavaScript, CSS
 
 * [Jakob Jenkov](https://www.youtube.com/user/jjenkov) — SVG
+
+* [Daniel Stern](https://www.youtube.com/channel/UC5ohWghqu1C7bYAq_IDBkIw/featured) — JavaScript
