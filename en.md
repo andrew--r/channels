@@ -90,3 +90,5 @@
 * [Jakob Jenkov](https://www.youtube.com/user/jjenkov) — SVG
 
 * [Daniel Stern](https://www.youtube.com/channel/UC5ohWghqu1C7bYAq_IDBkIw/featured) — JavaScript
+
+* [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ) — many conference recordings. jQuery, Ruby, Ruby on Rails, Ember, Django
