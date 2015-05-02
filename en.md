@@ -73,8 +73,6 @@
 
 * [George Mcknight](https://www.youtube.com/user/geomck1967) — JavaScript, Meteor
 
-* [Confreaks](https://www.youtube.com/user/Confreaks) — Ruby конференции
-
 * [Mike Hibbert](https://www.youtube.com/user/MickeySoFine1972) — Ruby on Rails, Django
 
 * [realcsstricks](http://www.youtube.com/user/realcsstricks) — HTML, CSS, JavaScript, Sass, Screencast
