@@ -90,3 +90,5 @@
 * [Daniel Stern](https://www.youtube.com/channel/UC5ohWghqu1C7bYAq_IDBkIw/featured) — JavaScript
 
 * [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ) — many conference recordings. jQuery, Ruby, Ruby on Rails, Ember, Django
+
+* [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg) — JavaScript conference
