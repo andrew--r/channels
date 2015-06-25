@@ -25,8 +25,6 @@
 
 * [TechnologiesWeb](https://www.youtube.com/channel/UCwiiinc7aXEM1ZE2JQ9b46A) - Ruby, Javascript, SQL, хакинг, CMS
 
-* [DeveloperStarter](https://www.youtube.com/user/DeveloperStarter) - курсы, лекции, и уроки по HTML, CSS, JavaScript, PHP, Java, Python, C++
-
 * [HexletUniversity](https://www.youtube.com/user/HexletUniversity) - курсы и лекции по JavaScript, Java, Computer Science
 
 * [JSPirates](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg) — JavaScript, Node.js
