@@ -73,8 +73,6 @@
 
 * [George Mcknight](https://www.youtube.com/user/geomck1967) — JavaScript, Meteor
 
-* [Confreaks](https://www.youtube.com/user/Confreaks) — Ruby конференции
-
 * [Mike Hibbert](https://www.youtube.com/user/MickeySoFine1972) — Ruby on Rails, Django
 
 * [realcsstricks](http://www.youtube.com/user/realcsstricks) — HTML, CSS, JavaScript, Sass, Screencast
@@ -86,3 +84,11 @@
 * [React Conference](https://www.youtube.com/user/reactconf) — JavaScript, React
 
 * [JSConf](https://www.youtube.com/user/jsconfeu) — JavaScript, CSS
+
+* [Jakob Jenkov](https://www.youtube.com/user/jjenkov) — SVG
+
+* [Daniel Stern](https://www.youtube.com/channel/UC5ohWghqu1C7bYAq_IDBkIw/featured) — JavaScript
+
+* [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ) — many conference recordings. jQuery, Ruby, Ruby on Rails, Ember, Django
+
+* [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg) — JavaScript conference
