@@ -92,3 +92,5 @@
 * [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ) — many conference recordings. jQuery, Ruby, Ruby on Rails, Ember, Django
 
 * [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg) — JavaScript conference
+
+* [Front End TV](https://www.youtube.com/channel/UCztRO4rG71uxuR-Tpf_biww) — JavaScript & ECMAScript 6 lessons
