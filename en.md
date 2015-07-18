@@ -94,3 +94,5 @@
 * [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg) — JavaScript conference
 
 * [Front End TV](https://www.youtube.com/channel/UCztRO4rG71uxuR-Tpf_biww) — JavaScript & ECMAScript 6 lessons
+
+* [devGeeK](https://www.youtube.com/channel/UCr-L1s1pBkA5TsaWZsCplOA) — JavaScript, Node.js, AngularJS, Game Development, HTML5, Big data
