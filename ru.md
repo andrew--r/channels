@@ -25,8 +25,6 @@
 
 * [TechnologiesWeb](https://www.youtube.com/channel/UCwiiinc7aXEM1ZE2JQ9b46A) - Ruby, Javascript, SQL, хакинг, CMS
 
-* [DeveloperStarter](https://www.youtube.com/user/DeveloperStarter) - курсы, лекции, и уроки по HTML, CSS, JavaScript, PHP, Java, Python, C++
-
 * [HexletUniversity](https://www.youtube.com/user/HexletUniversity) - курсы и лекции по JavaScript, Java, Computer Science
 
 * [JSPirates](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg) — JavaScript, Node.js
@@ -36,6 +34,8 @@
 * [Fronthub](http://www.youtube.com/channel/UComo38nPQVCnkZFadQ9uc2A) — доклады конференций Front-hub
 
 * [404fest](https://www.youtube.com/user/404fest) — доклады конференций
+<<<<<<< HEAD
+=======
 
 * [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ) - доклады конференций MoscowJS 
 
@@ -44,3 +44,4 @@
 * [WebMarik | Видео уроки](http://www.youtube.com/user/jquerymobilerussia) — jQuery Mobile
 
 * [Яндекс Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ) — Школа разработки интерфейсов Яндекса
+>>>>>>> a3f368eae6499301b004517e71d62fd684905e5b
