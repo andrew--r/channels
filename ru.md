@@ -44,3 +44,5 @@
 * [WebMarik | Видео уроки](http://www.youtube.com/user/jquerymobilerussia) — jQuery Mobile
 
 * [Яндекс Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ) — Школа разработки интерфейсов Яндекса
+
+* [Ros Ivanov](http://www.youtube.com/channel/UC-_16EgYOzinLxegLrTMkTA) — БЭМ, PostCSS, Jade, инструменты
