@@ -96,3 +96,5 @@
 * [Front End TV](https://www.youtube.com/channel/UCztRO4rG71uxuR-Tpf_biww) — JavaScript & ECMAScript 6 lessons
 
 * [devGeeK](https://www.youtube.com/channel/UCr-L1s1pBkA5TsaWZsCplOA) — JavaScript, Node.js, AngularJS, Game Development, HTML5, Big data
+
+* [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw) — React
