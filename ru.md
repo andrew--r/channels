@@ -23,10 +23,6 @@
 
 * [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры
 
-* [TechnologiesWeb](https://www.youtube.com/channel/UCwiiinc7aXEM1ZE2JQ9b46A) - Ruby, Javascript, SQL, хакинг, CMS
-
-* [DeveloperStarter](https://www.youtube.com/user/DeveloperStarter) - курсы, лекции, и уроки по HTML, CSS, JavaScript, PHP, Java, Python, C++
-
 * [HexletUniversity](https://www.youtube.com/user/HexletUniversity) - курсы и лекции по JavaScript, Java, Computer Science
 
 * [JSPirates](http://www.youtube.com/channel/UCoQvColVafC905L1wyqfjcg) — JavaScript, Node.js
@@ -37,7 +33,7 @@
 
 * [404fest](https://www.youtube.com/user/404fest) — доклады конференций
 
-* [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ) - доклады конференций MoscowJS 
+* [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ) - доклады конференций MoscowJS
 
 * [Технопарк Mail.Ru Group](http://www.youtube.com/user/TPMGTU) - Канал проекта Технопарк Mail.Ru Group
 
