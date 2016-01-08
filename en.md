@@ -100,3 +100,5 @@
 * [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw) — React
 
 * [The Web Platform Podcast](https://www.youtube.com/channel/UCjz3j22CyBpy6Qk5SL6UwcQ) — JavaScript, tools, workflow, etc
+
+* [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript
