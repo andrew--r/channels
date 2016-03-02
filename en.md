@@ -1,5 +1,5 @@
 # List of channels
-* [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — доклады, обзоры, туториалы
+* [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — a lot of stuff on web technologies and perfomance
 * [Helping Develop](http://www.youtube.com/user/TheHelpingDevelop) — PHP, jQuery, HTML, CSS
 * [Sass Bites Podcast](http://www.youtube.com/user/sassbites) — Sass
 * [LevelUpTuts](http://www.youtube.com/user/LevelUpTuts) — HTML5, Stylus, CSS, Sass, WordPress
