@@ -53,3 +53,4 @@
 * [mpjme](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript
 * [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ) — MelbCSS conference videos
 * [devdojo](https://www.youtube.com/user/devdojo) - Laravel
+* [KnpUniversity](https://www.youtube.com/user/KnpUniversity) - PHP, Symfony, Doctrine
