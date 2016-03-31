@@ -54,3 +54,4 @@
 * [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ) — MelbCSS conference videos
 * [devdojo](https://www.youtube.com/user/devdojo) - Laravel
 * [KnpUniversity](https://www.youtube.com/user/KnpUniversity) - PHP, Symfony, Doctrine
+* [SensioLabs UK](https://www.youtube.com/channel/UC69McIXo4i4csNRz144GVkQ) - Symfony
