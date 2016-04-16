@@ -55,3 +55,4 @@
 * [devdojo](https://www.youtube.com/user/devdojo) - Laravel
 * [KnpUniversity](https://www.youtube.com/user/KnpUniversity) - PHP, Symfony, Doctrine
 * [SensioLabs UK](https://www.youtube.com/channel/UC69McIXo4i4csNRz144GVkQ) - Symfony
+* [ClojureTV](https://www.youtube.com/user/ClojureTV/) — Clojure
