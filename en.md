@@ -58,3 +58,4 @@
 * [ClojureTV](https://www.youtube.com/user/ClojureTV/) — Clojure
 * [Kyle Robinson Young](https://www.youtube.com/channel/UCpqYfSWEcyBGorRGvPsHkgg) — JavaScript, Node.js, Ember.js, Electron, Browserify
 * [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) — a lot of stuff about web development and web design
+* [CJ Gammon](https://www.youtube.com/user/cjgammon) — Snap.svg, Parallax tutorial
