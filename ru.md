@@ -23,3 +23,4 @@
 * [Ros Ivanov](http://www.youtube.com/channel/UC-_16EgYOzinLxegLrTMkTA) — БЭМ, PostCSS, Jade, инструменты
 * [Почта Mail.Ru](http://www.youtube.com/user/mailruvideo) — доклады с конференции «Технофорум»
 * [roman01la](https://www.youtube.com/user/roman01la) — Функциональный JavaScript, ClojureScript, React & Flux, Accessibility
+* [Moscow Coding School](https://www.youtube.com/channel/UC7AIp8rb_SF6c97GRxpOXGg) — JavaScript
