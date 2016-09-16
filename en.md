@@ -61,3 +61,4 @@
 * [CJ Gammon](https://www.youtube.com/user/cjgammon) — Snap.svg, Parallax tutorial
 * [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) — Meteor, React.js, Bootstrap
 * [funfunfunction](https://www.youtube.com/c/mpjmevideos) — JavaScript, unit testing, functional programming
+* [Nordic.js](https://www.youtube.com/user/nordicjs) — JavaScript, CSS
