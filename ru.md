@@ -24,3 +24,4 @@
 * [roman01la](https://www.youtube.com/user/roman01la) — функциональный JavaScript, ClojureScript, React & Flux, доступность
 * [Moscow Coding School](https://www.youtube.com/channel/UC7AIp8rb_SF6c97GRxpOXGg) — JavaScript
 * [TomskJS](https://www.youtube.com/channel/UCwgCp5l9a4bux4VE0S9CCLQ) — записи докладов конференции TomskJS
+* [Fp Conf](https://www.youtube.com/channel/UCmiGqOz-jojsWUVXLZJ8mCw) — записи докладов конференции FPConf
