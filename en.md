@@ -62,3 +62,4 @@
 * [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) — Meteor, React.js, Bootstrap
 * [funfunfunction](https://www.youtube.com/c/mpjmevideos) — JavaScript, unit testing, functional programming
 * [Nordic.js](https://www.youtube.com/user/nordicjs) — JavaScript, CSS
+* [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ) — Game development with JavaScript
