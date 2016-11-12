@@ -8,6 +8,11 @@ Feel free to make a pull request with missing channel.
 	- [Conferences recordings](#conferences-recordings)
 - [Русскоязычные каналы](#Русскоязычные-каналы)
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
+	
+## Мультиязычные стримы
+
+- [Livecoding.tv](https://www.livecoding.tv/livestreams/) — js, php, laravel, c++, etc.;
+- [Twitch Programming channel](https://www.twitch.tv/directory/game/Creative/programming) — a bunch of webdev streams;
 
 ## English language channels
 
