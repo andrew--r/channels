@@ -86,3 +86,4 @@ Feel free to make a pull request with missing channel.
 - [FPConf](https://www.youtube.com/channel/UCmiGqOz-jojsWUVXLZJ8mCw)
 - [FrontendDevConf](https://www.youtube.com/channel/UCBaLKdTGUfiHvxWCV8aMAnQ)
 - [4front](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
+- [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
