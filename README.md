@@ -80,7 +80,8 @@ Feel free to make a pull request with missing channel.
 - [WebUpBlog](https://www.youtube.com/channel/UCiw2l9SNahEtu14V7r9XMgg) — HTML, CSS, Sass, JavaScript;
 - [Pa Dam Tuts](https://www.youtube.com/user/TheComePot) — HTML5 Canvas, CSS;
 - [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g) — CSS, Bootstrap, инструменты, переводы англоязычных видео;
-- [WebDesign Master](https://www.youtube.com/user/agragregra) — вёрстка, обзоры плагинов и инструментов.
+- [WebDesign Master](https://www.youtube.com/user/agragregra) — вёрстка, обзоры плагинов и инструментов;
+- [Learn Programming](https://www.youtube.com/user/nikitaseverinov) — Node.js, HTML5 Canvas, WebGL, Three.js, GameDev.
 
 ### Записи с конференций и митапов
 
