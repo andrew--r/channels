@@ -96,3 +96,4 @@ Feel free to make a pull request with missing channel.
 - [4front](https://www.youtube.com/channel/UCj3KH8jxwcT5zOrByWmNXhA)
 - [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
 - [SPB Frontend](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA)
+- [FrontTalks](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
