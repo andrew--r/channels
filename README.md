@@ -77,7 +77,8 @@ Feel free to make a pull request with missing channel.
 - [Monsterlessons](https://www.youtube.com/channel/UCyUFMVZ6VnbB5a8d_EyrFBQ) — JavaScript, Node.js, Angular, React, Redux, Webpack, Lodash, Git;
 - [CodeDojo](https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ) — HTML, ES6, React, Angular, Flexbox;
 - [WebUpBlog](https://www.youtube.com/channel/UCiw2l9SNahEtu14V7r9XMgg) — HTML, CSS, Sass, JavaScript;
-- [Pa Dam Tuts](https://www.youtube.com/user/TheComePot) — HTML5 Canvas, CSS.
+- [Pa Dam Tuts](https://www.youtube.com/user/TheComePot) — HTML5 Canvas, CSS;
+- [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g) — CSS, Bootstrap, инструменты, переводы англоязычных видео.
 
 ### Записи с конференций и митапов
 
