@@ -75,7 +75,8 @@ Feel free to make a pull request with missing channel.
 - [WebMarik](http://www.youtube.com/user/jquerymobilerussia) — jQuery Mobile
 - [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры;
 - [Monsterlessons](https://www.youtube.com/channel/UCyUFMVZ6VnbB5a8d_EyrFBQ) — JavaScript, Node.js, Angular, React, Redux, Webpack, Lodash, Git;
-- [CodeDojo](https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ) — HTML, ES6, React, Angular, Flexbox.
+- [CodeDojo](https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ) — HTML, ES6, React, Angular, Flexbox;
+- [WebUpBlog](https://www.youtube.com/channel/UCiw2l9SNahEtu14V7r9XMgg) — HTML, CSS, Sass, JavaScript.
 
 ### Записи с конференций и митапов
 
