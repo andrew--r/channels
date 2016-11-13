@@ -73,7 +73,8 @@ Feel free to make a pull request with missing channel.
 - [Procode](http://www.youtube.com/user/easygamedev) — HTML5, GameDev;
 - [Технострим Mail.Ru Group](http://www.youtube.com/user/TPMGTU) — лекции образовательных проектов Mail.ru group;
 - [WebMarik](http://www.youtube.com/user/jquerymobilerussia) — jQuery Mobile
-- [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры.
+- [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры;
+- [Monsterlessons](https://www.youtube.com/channel/UCyUFMVZ6VnbB5a8d_EyrFBQ) — JavaScript, Node.js, Angular, React, Redux, Webpack, Lodash, Git.
 
 ### Записи с конференций и митапов
 
