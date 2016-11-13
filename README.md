@@ -43,7 +43,8 @@ Feel free to make a pull request with missing channel.
 - [CJ Gammon](https://www.youtube.com/user/cjgammon) — Snap.svg, Three.js;
 - [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) — Meteor, React.js;
 - [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ) — game development with JavaScript;
-- [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) — weekly, short React screencasts containing tips, tricks and tutorials.
+- [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) — weekly, short React screencasts containing tips, tricks and tutorials;
+- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text.
 
 ### Conferences recordings
 
