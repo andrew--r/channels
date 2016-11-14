@@ -45,6 +45,9 @@ Feel free to make a pull request with missing channel.
 - [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ) — game development with JavaScript;
 - [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) — weekly, short React screencasts containing tips, tricks and tutorials;
 - [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text.
+- [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides/videos) — All about GitHub from GitHub Training team;
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos) — Tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks;
+- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text.
 
 ### Conferences recordings
 
@@ -57,6 +60,9 @@ Feel free to make a pull request with missing channel.
 - [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 - [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
 - [Bocoup LLC](https://www.youtube.com/user/BocoupLLC/videos)
+- [Front-Trends](https://www.youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA/videos)
+- [Smashing Magazine](https://vimeo.com/smashingmagazine/videos)
+- [Fronteers](https://vimeo.com/fronteers/videos)
 
 ## Русскоязычные каналы
 
@@ -98,3 +104,4 @@ Feel free to make a pull request with missing channel.
 - [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
 - [SPB Frontend](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA)
 - [FrontTalks](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
+- [KharkivJS Community](https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A/videos)
