@@ -44,7 +44,9 @@ Feel free to make a pull request with missing channel.
 - [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) — Meteor, React.js;
 - [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ) — game development with JavaScript;
 - [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) — weekly, short React screencasts containing tips, tricks and tutorials;
-- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text.
+- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text;
+- [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides/videos) — All about GitHub from GitHub Training team;
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos) — Tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks.
 
 ### Conferences recordings
 
@@ -56,6 +58,10 @@ Feel free to make a pull request with missing channel.
 - [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg)
 - [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 - [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
+- [Bocoup LLC](https://www.youtube.com/user/BocoupLLC/videos)
+- [Front-Trends](https://www.youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA/videos)
+- [Smashing Magazine](https://vimeo.com/smashingmagazine/videos)
+- [Fronteers](https://vimeo.com/fronteers/videos)
 
 ## Русскоязычные каналы
 
@@ -73,7 +79,6 @@ Feel free to make a pull request with missing channel.
 - [uWebDesign](http://www.youtube.com/user/uwebdesign) — CSS, Sass, обзоры инструментов, подкасты;
 - [Procode](http://www.youtube.com/user/easygamedev) — HTML5, GameDev;
 - [Технострим Mail.Ru Group](http://www.youtube.com/user/TPMGTU) — лекции образовательных проектов Mail.ru group;
-- [WebMarik](http://www.youtube.com/user/jquerymobilerussia) — jQuery Mobile
 - [webformyself](http://www.youtube.com/channel/UCGuhp4lpQvK94ZC5kuOZbjA) — CSS, HTML, обзоры;
 - [Monsterlessons](https://www.youtube.com/channel/UCyUFMVZ6VnbB5a8d_EyrFBQ) — JavaScript, Node.js, Angular, React, Redux, Webpack, Lodash, Git;
 - [CodeDojo](https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ) — HTML, ES6, React, Angular, Flexbox;
@@ -97,3 +102,4 @@ Feel free to make a pull request with missing channel.
 - [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
 - [SPB Frontend](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA)
 - [FrontTalks](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
+- [KharkivJS Community](https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A/videos)
