@@ -44,9 +44,9 @@ Feel free to make a pull request with missing channel.
 - [Dev Coffee](https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw) — Meteor, React.js;
 - [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ) — game development with JavaScript;
 - [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) — weekly, short React screencasts containing tips, tricks and tutorials;
-- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text.
+- [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text;
 - [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides/videos) — All about GitHub from GitHub Training team;
-- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos) — Tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks;
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos) — Tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks.
 
 ### Conferences recordings
 
