@@ -11,7 +11,7 @@ Feel free to make a pull request with missing channel.
 
 ## English language channels
 
-- [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — tools, accessibility, events recordings;
+- [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — tools, events recordings;
 - [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, functional programming, programming practices;
 - [LevelUpTuts](http://www.youtube.com/user/LevelUpTuts) — HTML, Stylus, CSS, Sass;
 - [DevTips](http://www.youtube.com/user/DevTipsForDesigners) — Foundation, CSS, RWD;
@@ -45,8 +45,8 @@ Feel free to make a pull request with missing channel.
 - [Meth Meth Method](https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ) — game development with JavaScript;
 - [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) — weekly, short React screencasts containing tips, tricks and tutorials;
 - [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text;
-- [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides/videos) — All about GitHub from GitHub Training team;
-- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers/videos) — Tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks.
+- [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides) — all about GitHub from GitHub Training team;
+- [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) — tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks.
 
 ### Conferences recordings
 
@@ -58,10 +58,10 @@ Feel free to make a pull request with missing channel.
 - [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg)
 - [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 - [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
-- [Bocoup LLC](https://www.youtube.com/user/BocoupLLC/videos)
-- [Front-Trends](https://www.youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA/videos)
-- [Smashing Magazine](https://vimeo.com/smashingmagazine/videos)
-- [Fronteers](https://vimeo.com/fronteers/videos)
+- [Bocoup LLC](https://www.youtube.com/user/BocoupLLC)
+- [Front-Trends](https://www.youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA)
+- [Smashing Magazine](https://vimeo.com/smashingmagazine)
+- [Fronteers](https://vimeo.com/fronteers)
 
 ## Русскоязычные каналы
 
@@ -74,7 +74,7 @@ Feel free to make a pull request with missing channel.
 - [roman01la](https://www.youtube.com/user/roman01la) — функциональный JavaScript, ClojureScript, React & Flux, доступность;
 - [Ros Ivanov](http://www.youtube.com/channel/UC-_16EgYOzinLxegLrTMkTA) — БЭМ, PostCSS, Jade, инструменты;
 - [Moscow Coding School](https://www.youtube.com/channel/UC7AIp8rb_SF6c97GRxpOXGg) — курсы JavaScript;
-- [Точка.dev](https://www.youtube.com/channel/UCzgtMBarT8AvsGc-Y_8Qexw/featured) — Vue.js;
+- [Точка.dev](https://www.youtube.com/channel/UCzgtMBarT8AvsGc-Y_8Qexw) — Vue.js;
 - [loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) — новости, обзоры, всевозможные курсы по HTML, CSS, JavaScript и разным инструментам/библиотекам;
 - [uWebDesign](http://www.youtube.com/user/uwebdesign) — CSS, Sass, обзоры инструментов, подкасты;
 - [Procode](http://www.youtube.com/user/easygamedev) — HTML5, GameDev;
@@ -102,4 +102,4 @@ Feel free to make a pull request with missing channel.
 - [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ)
 - [SPB Frontend](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA)
 - [FrontTalks](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
-- [KharkivJS Community](https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A/videos)
+- [KharkivJS Community](https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A)
