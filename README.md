@@ -56,6 +56,7 @@ Feel free to make a pull request with missing channel.
 - [EmpireJS](https://www.youtube.com/channel/UCSTVaGXDcyRhxm_9Bgw0SBg)
 - [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 - [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
+- [Bocoup LLC](https://www.youtube.com/user/BocoupLLC/videos)
 
 ## Русскоязычные каналы
 
