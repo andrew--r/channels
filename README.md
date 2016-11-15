@@ -113,3 +113,4 @@ Feel free to make a pull request with missing channel.
 - [PenzaJS](https://www.youtube.com/channel/UCyGFfAjZw-X1GZ4sZuueLzg)
 - [Odessa GeeksLab & WebCamp](https://www.youtube.com/user/GeeksLabVideo)
 - [Odessa WebCamp](https://www.youtube.com/channel/UC5FaxCxswCJGAIytydpTRMw)
+- [it73 — ИТ в Ульяновске](https://www.youtube.com/channel/UCMpfLBYXuJ0W4qS3icVijmw)
