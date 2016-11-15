@@ -107,3 +107,4 @@ Feel free to make a pull request with missing channel.
 - [FrontendFellows](https://www.youtube.com/channel/UCtKM34uT6t5BD0Dr1wobs5w)
 - [GeeksLab](https://www.youtube.com/user/GeeksLabVideo)
 - [Badoo Development](https://www.youtube.com/user/badoodev)
+- [Yaroslavl Frontend](https://www.youtube.com/watch?v=s9JJ_PbVCIA&list=PLZinVxOM_0dK8JAsrNIwZkNn3vbRWBaex)
