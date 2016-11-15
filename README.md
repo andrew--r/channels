@@ -104,3 +104,4 @@ Feel free to make a pull request with missing channel.
 - [SPB Frontend](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA)
 - [FrontTalks](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
 - [KharkivJS Community](https://www.youtube.com/channel/UCYCPt7SWMZa4T8GwkQ-K-0A)
+- [FrontendFellows](https://www.youtube.com/channel/UCtKM34uT6t5BD0Dr1wobs5w)
