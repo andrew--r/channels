@@ -112,3 +112,4 @@ Feel free to make a pull request with missing channel.
 - [Yaroslavl Frontend](https://www.youtube.com/watch?v=s9JJ_PbVCIA&list=PLZinVxOM_0dK8JAsrNIwZkNn3vbRWBaex)
 - [CodeFest](https://www.youtube.com/channel/UCH8zwr3rJOcgCApR_5z31cw)
 - [PenzaJS](https://www.youtube.com/channel/UCyGFfAjZw-X1GZ4sZuueLzg)
+- [it73 - ИТ в Ульяновске](https://www.youtube.com/channel/UCMpfLBYXuJ0W4qS3icVijmw)
