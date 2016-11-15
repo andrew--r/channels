@@ -63,6 +63,7 @@ Feel free to make a pull request with missing channel.
 - [Front-Trends](https://www.youtube.com/channel/UCpIBwBITpXelDgDwe-16zWA)
 - [Smashing Magazine](https://vimeo.com/smashingmagazine)
 - [Fronteers](https://vimeo.com/fronteers)
+- [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
 
 ## Русскоязычные каналы
 
