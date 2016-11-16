@@ -119,3 +119,4 @@ Feel free to make a pull request with missing channel.
 - [it73 — ИТ в Ульяновске](https://www.youtube.com/channel/UCMpfLBYXuJ0W4qS3icVijmw)
 - [Novosibirsk DevDays](https://www.youtube.com/user/DevDay2GIS)
 - [JSib Community](https://www.youtube.com/channel/UCmnYKBoddVb6GBlOJpZxFFg)
+- [PiterJS](https://www.youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw)
