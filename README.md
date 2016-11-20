@@ -92,6 +92,7 @@ Feel free to make a pull request with missing channel.
 - [WebDesign Master](https://www.youtube.com/user/agragregra) — вёрстка, обзоры плагинов и инструментов;
 - [Learn Programming](https://www.youtube.com/user/nikitaseverinov) — Node.js, HTML5 Canvas, WebGL, Three.js, GameDev;
 - [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) — обзоры инструментов, автоматизация.
+- [SkanerSoft - создание игр](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS;
 
 ### Записи с конференций и митапов
 
