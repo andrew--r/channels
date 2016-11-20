@@ -93,6 +93,7 @@ Feel free to make a pull request with missing channel.
 - [Learn Programming](https://www.youtube.com/user/nikitaseverinov) — Node.js, HTML5 Canvas, WebGL, Three.js, GameDev;
 - [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) — обзоры инструментов, автоматизация.
 - [SkanerSoft - создание игр](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS;
+- [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript;
 
 ### Записи с конференций и митапов
 
