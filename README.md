@@ -5,9 +5,9 @@ A collection of useful YouTube channels for javascript developers and web design
 Feel free to make a pull request with missing channel.
 
 - [English language channels](#english-language-channels)
-	- [Conferences recordings](#conferences-recordings)
+    - [Conferences recordings](#conferences-recordings)
 - [Русскоязычные каналы](#Русскоязычные-каналы)
-	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
+    - [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
 - [French language channels](#french-language-channels)
 - [Portuguese language channels](#portuguese-language-channels)
 
@@ -52,6 +52,15 @@ Feel free to make a pull request with missing channel.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools.
 
+### Interviews
+- [DECODED chats](https://www.youtube.com/channel/UC3QHpbE1_SidLc4j1lvpo5g) - SVG, PWAs, learning.
+
+### Meetups
+- [Async](https://www.youtube.com/channel/UCh0nkalFWOHi4UlYnI0w13w) - JavaScript, animation, WebGL, web audio
+- [BristolJS](https://www.youtube.com/channel/UCPOICck6I3zqGveOs6aFT5A) - JavaScript, Phaser, React
+- [NLHTML5](https://www.youtube.com/user/nlhtml5) - WebVR, browsers, Polymer, JavaScript, CSS
+- [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ) - WebVR, A-Frame, PWAs, AMP
+
 ### Conferences recordings
 
 - [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
@@ -68,6 +77,8 @@ Feel free to make a pull request with missing channel.
 - [Fronteers](https://vimeo.com/fronteers)
 - [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
 - [Pusher](https://www.youtube.com/user/pusherapp) — Front-end London, AsyncJS, JS Monthly London, JSOxford
+- [BlinkOn](https://www.youtube.com/channel/UCIfQb9u7ALnOE4ZmexRecDg)
+- [Web Rebels](https://www.youtube.com/channel/UCM9cTs_C0PmTlHXTNrqTpnw)
 
 ## Русскоязычные каналы
 
