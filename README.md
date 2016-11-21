@@ -8,6 +8,7 @@ Feel free to make a pull request with missing channel.
 	- [Conferences recordings](#conferences-recordings)
 - [Русскоязычные каналы](#Русскоязычные-каналы)
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
+- [French language channels](#french-language-channels)
 
 ## English language channels
 
@@ -125,4 +126,4 @@ Feel free to make a pull request with missing channel.
 
 ## French language channels
 
-- [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS
+- [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS.
