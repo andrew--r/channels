@@ -8,6 +8,7 @@ Feel free to make a pull request with missing channel.
 	- [Conferences recordings](#conferences-recordings)
 - [Русскоязычные каналы](#Русскоязычные-каналы)
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
+- [French language channels](#french-language-channels)
 
 ## English language channels
 
@@ -122,3 +123,7 @@ Feel free to make a pull request with missing channel.
 - [Novosibirsk DevDays](https://www.youtube.com/user/DevDay2GIS)
 - [JSib Community](https://www.youtube.com/channel/UCmnYKBoddVb6GBlOJpZxFFg)
 - [PiterJS](https://www.youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw)
+
+## French language channels
+
+- [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS.
