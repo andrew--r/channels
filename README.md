@@ -9,6 +9,7 @@ Feel free to make a pull request with missing channel.
 - [Русскоязычные каналы](#Русскоязычные-каналы)
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
 - [French language channels](#french-language-channels)
+- [Portuguese language channels](#portuguese-language-channels)
 
 ## English language channels
 
@@ -127,3 +128,8 @@ Feel free to make a pull request with missing channel.
 ## French language channels
 
 - [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS.
+
+## Portuguese language channels
+
+- [WebSchool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) — MEAN (MongoDB, Express, Angular, Node.js), PostCSS, Sass, Koa, Git;
+- [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript.
