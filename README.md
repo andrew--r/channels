@@ -51,6 +51,9 @@ Feel free to make a pull request with missing channel.
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) — tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks;
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools.
+- [Rem Zolotykh](https://www.youtube.com/user/MrRemchi) - React, Redux
+- [Building products with javascript](https://www.youtube.com/playlist?list=PL_gX69xPLi-nM52i7LyeEo8Rpu9t_s9tV)
+- [Byte-Sized Javascript](https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA)
 
 ### Conferences recordings
 
@@ -68,6 +71,8 @@ Feel free to make a pull request with missing channel.
 - [Fronteers](https://vimeo.com/fronteers)
 - [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
 - [Pusher](https://www.youtube.com/user/pusherapp) — Front-end London, AsyncJS, JS Monthly London, JSOxford
+- [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
+- [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ)
 
 ## Русскоязычные каналы
 
