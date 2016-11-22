@@ -125,6 +125,7 @@ Feel free to make a pull request with missing channel.
 - [JSib Community](https://www.youtube.com/channel/UCmnYKBoddVb6GBlOJpZxFFg)
 - [PiterJS](https://www.youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw)
 - [KyivJS](https://www.youtube.com/channel/UCOeSzR4BeXpsXGW6P0Pv9sA)
+- [OdessaJS](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg)
 
 ## French language channels
 
