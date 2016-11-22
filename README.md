@@ -10,6 +10,7 @@ Feel free to make a pull request with missing channel.
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
 - [French language channels](#french-language-channels)
 - [Portuguese language channels](#portuguese-language-channels)
+- [Hebrew language channels](#hebrew-language-channels)
 
 ## English language channels
 
@@ -134,3 +135,11 @@ Feel free to make a pull request with missing channel.
 
 - [WebSchool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) — MEAN (MongoDB, Express, Angular, Node.js), PostCSS, Sass, Koa, Git;
 - [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript.
+
+## Hebrew language channels
+
+- [AngularJS Israel](https://www.youtube.com/user/AngularJSIL) — JavaScript, Angular, ES6, Node.js.
+- [ReactIL](https://www.youtube.com/channel/UC7AkWgJFP_hBoU0M7_n0prQ) — JavaScript, React, ES6, Node.js.
+- [Javascript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g) — JavaScript, ES6, jQuery, Angular, React, Node.js.
+- [GDG Israel](https://www.youtube.com/user/GTUGIsrael) — JavaScript, ES6, jQuery, Angular, React, Node.js., GIT, Meteor
+- [FullStack Developer Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A) — JavaScript, ES6, jQuery, Angular, React, Node.js., GIT, Meteor, CSS, Sass, MicroServices, RxJS
