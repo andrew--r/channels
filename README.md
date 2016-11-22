@@ -10,6 +10,7 @@ Feel free to make a pull request with missing channel.
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
 - [French language channels](#french-language-channels)
 - [Portuguese language channels](#portuguese-language-channels)
+- [Czech language channels](#czech-language-channels)
 
 ## English language channels
 
