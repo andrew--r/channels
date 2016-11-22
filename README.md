@@ -124,6 +124,7 @@ Feel free to make a pull request with missing channel.
 - [Novosibirsk DevDays](https://www.youtube.com/user/DevDay2GIS)
 - [JSib Community](https://www.youtube.com/channel/UCmnYKBoddVb6GBlOJpZxFFg)
 - [PiterJS](https://www.youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw)
+- [OdessaJS](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg)
 
 ## French language channels
 
