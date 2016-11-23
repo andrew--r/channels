@@ -100,6 +100,7 @@ Feel free to make a pull request with missing channel.
 - [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript;
 - [Ausite Blog](https://www.youtube.com/channel/UCS4siVGRQuIb3nBNu4Sv4Lg) — Vue.js, RiotJS, Socket.io;
 - [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw) — HTML, CSS, БЭМ, SASS, Bootstrap, jQuery;
+- [ProDevZone](https://www.youtube.com/channel/UCBL_E1kwxLyZIPzYElTjXsQ) — Bootstrap;
 
 ### Записи с конференций и митапов
 
