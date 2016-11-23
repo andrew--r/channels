@@ -51,7 +51,8 @@ Feel free to make a pull request with missing channel.
 - [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides) — all about GitHub from GitHub Training team;
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) — tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks;
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
-- [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools.
+- [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools;
+- [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal.
 
 ### Conferences recordings
 
