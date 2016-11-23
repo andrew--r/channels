@@ -8,6 +8,9 @@ Feel free to make a pull request with missing channel.
 	- [Conferences recordings](#conferences-recordings)
 - [Русскоязычные каналы](#Русскоязычные-каналы)
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
+- [French language channels](#french-language-channels)
+- [Portuguese language channels](#portuguese-language-channels)
+- [Czech language channels](#czech-language-channels)
 
 ## English language channels
 
@@ -48,7 +51,8 @@ Feel free to make a pull request with missing channel.
 - [GitHub Training & Guides](https://www.youtube.com/user/GitHubGuides) — all about GitHub from GitHub Training team;
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) — tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks;
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
-- [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools.
+- [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools;
+- [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal.
 
 ### Conferences recordings
 
@@ -91,9 +95,9 @@ Feel free to make a pull request with missing channel.
 - [MakeWeb.me](https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g) — CSS, Bootstrap, инструменты, переводы англоязычных видео;
 - [WebDesign Master](https://www.youtube.com/user/agragregra) — вёрстка, обзоры плагинов и инструментов;
 - [Learn Programming](https://www.youtube.com/user/nikitaseverinov) — Node.js, HTML5 Canvas, WebGL, Three.js, GameDev;
-- [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) — обзоры инструментов, автоматизация.
-- [SkanerSoft - создание игр](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS;
-- [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript;
+- [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) — обзоры инструментов, автоматизация;
+- [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS;
+- [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript.
 
 ### Записи с конференций и митапов
 
@@ -122,3 +126,18 @@ Feel free to make a pull request with missing channel.
 - [Novosibirsk DevDays](https://www.youtube.com/user/DevDay2GIS)
 - [JSib Community](https://www.youtube.com/channel/UCmnYKBoddVb6GBlOJpZxFFg)
 - [PiterJS](https://www.youtube.com/channel/UCN9aK6ZG5PS1nnJZqscsmKw)
+- [KyivJS](https://www.youtube.com/channel/UCOeSzR4BeXpsXGW6P0Pv9sA)
+- [OdessaJS](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg)
+
+## French language channels
+
+- [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS.
+
+## Portuguese language channels
+
+- [WebSchool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) — MEAN (MongoDB, Express, Angular, Node.js), PostCSS, Sass, Koa, Git;
+- [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript.
+
+## Czech language channels
+
+- [Frontendisti.cz](https://www.youtube.com/user/frontendisti) — HTML, CSS, Front-end.
