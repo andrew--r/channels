@@ -53,6 +53,7 @@ Feel free to make a pull request with missing channel.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools;
 - [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal.
+- [Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) — Node.js, Angular, ReactJS, Redux, Vue.js.
 
 ### Conferences recordings
 
