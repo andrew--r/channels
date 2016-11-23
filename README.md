@@ -102,6 +102,12 @@ Feel free to make a pull request with missing channel.
 - [Ausite Blog](https://www.youtube.com/channel/UCS4siVGRQuIb3nBNu4Sv4Lg) — Vue.js, RiotJS, Socket.io;
 - [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw) — HTML, CSS, БЭМ, SASS, Bootstrap, jQuery;
 - [ProDevZone](https://www.youtube.com/channel/UCBL_E1kwxLyZIPzYElTjXsQ) — Bootstrap;
+- [Web Developer Blog](https://www.youtube.com/user/AlexeySuprun) — основы Javascript, HTML, CSS, Bootstrap 3, Foundation, обзор редакторов Sublime Text и Atom;
+- [Artem Demo](https://www.youtube.com/user/artemdemo) — HTML, CSS, Angular, jQuery;
+- [Glo Academy](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg) — HTML, CSS, jQuery;
+- [Как создать сайт. Основы Самостоятельного Сайтостроения](https://www.youtube.com/user/webformyself) — HTML, CSS, jQuery;
+- [Дмитрий Лаврик](https://www.youtube.com/user/dmitrylavr) — основы HTML и CSS, JavaScript, NPM, Three.js;
+- [Блог о веб-разработке Rightblog.ru](https://www.youtube.com/channel/UCBB1kqYMWUrSxrQkq8BYzZA) — HTML, CSS, jQuery, обзор редактора Sublime Text;
 
 ### Записи с конференций и митапов
 
