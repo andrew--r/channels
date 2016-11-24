@@ -52,7 +52,8 @@ Feel free to make a pull request with missing channel.
 - [Google Chrome Developers](https://www.youtube.com/user/ChromeDevelopers) — tutorials, conferences recordings, polymer, accessibility, tooling, tips & tricks;
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools;
-- [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal.
+- [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal;
+- [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) — ES6, JavaScript focused code-alongs.
 
 ### Conferences recordings
 
@@ -98,8 +99,6 @@ Feel free to make a pull request with missing channel.
 - [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) — обзоры инструментов, автоматизация;
 - [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS;
 - [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript.
-- [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) - ES6, JavaScript focused code-alongs
-
 
 ### Записи с конференций и митапов
 
