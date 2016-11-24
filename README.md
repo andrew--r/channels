@@ -142,3 +142,13 @@ Feel free to make a pull request with missing channel.
 ## Czech language channels
 
 - [Frontendisti.cz](https://www.youtube.com/user/frontendisti) — HTML, CSS, Front-end.
+
+## Polish language channels
+
+- [Pasja informatyki](https://www.youtube.com/user/MiroslawZelent) — HTML, CSS, JS, PHP.
+- [Adrian Bienias](https://www.youtube.com/user/ADRIANBIENIASpl) - Front-end & Back-end.
+- [Od zera do WebDeva](https://www.youtube.com/channel/UCrSxel4Mheo6XA8IPMA-3ZQ) - Angular2
+
+### Polish conferences recordings
+
+- [WarsawJS](https://www.youtube.com/channel/UCzYf3wdKSKnR5lvkRVUyCYg)
