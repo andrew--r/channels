@@ -11,6 +11,7 @@ Feel free to make a pull request with missing channel.
 - [French language channels](#french-language-channels)
 - [Portuguese language channels](#portuguese-language-channels)
 - [Czech language channels](#czech-language-channels)
+- [German language channels](#german-language-channels)
 
 ## English language channels
 
@@ -142,3 +143,7 @@ Feel free to make a pull request with missing channel.
 ## Czech language channels
 
 - [Frontendisti.cz](https://www.youtube.com/user/frontendisti) — HTML, CSS, Front-end.
+
+## German language channels
+
+- [Working Draft](http://workingdraft.de/) - Web-Development and -Design
