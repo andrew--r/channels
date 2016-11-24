@@ -54,6 +54,8 @@ Feel free to make a pull request with missing channel.
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools;
 - [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal;
 - [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) — ES6, JavaScript focused code-alongs.
+- [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa) — Javascript, CSS, HTML;
+- [Rally Coding](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg) — React and Redux, JavaScript.
 
 ### Conferences recordings
 
@@ -71,6 +73,9 @@ Feel free to make a pull request with missing channel.
 - [Fronteers](https://vimeo.com/fronteers)
 - [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
 - [Pusher](https://www.youtube.com/user/pusherapp) — Front-end London, AsyncJS, JS Monthly London, JSOxford
+- [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg) — Full Stack Fest
+- [Modern Web](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
+- [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
 
 ## Русскоязычные каналы
 
