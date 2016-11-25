@@ -5,7 +5,7 @@ A collection of useful YouTube channels for javascript developers and web design
 Feel free to make a pull request with missing channel.
 
 - [English language channels](#english-language-channels)
-	- [Conferences recordings](#conferences-recordings)
+	- [Conferences and meetups recordings](#conferences-and-meetups-recordings)
 - [Русскоязычные каналы](#Русскоязычные-каналы)
 	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
 - [French language channels](#french-language-channels)
@@ -55,9 +55,10 @@ Feel free to make a pull request with missing channel.
 - [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal;
 - [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) — ES6, JavaScript focused code-alongs.
 - [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa) — Javascript, CSS, HTML;
-- [Rally Coding](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg) — React and Redux, JavaScript.
+- [Rally Coding](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg) — React and Redux, JavaScript;
+- [DECODED chats](https://www.youtube.com/channel/UC3QHpbE1_SidLc4j1lvpo5g) - interviews on SVG, PWAs, learning.
 
-### Conferences recordings
+### Conferences and meetups recordings
 
 - [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
 - [Nordic.js](https://www.youtube.com/user/nordicjs)
@@ -76,6 +77,12 @@ Feel free to make a pull request with missing channel.
 - [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg) — Full Stack Fest
 - [Modern Web](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
+- [BlinkOn](https://www.youtube.com/channel/UCIfQb9u7ALnOE4ZmexRecDg)
+- [Web Rebels](https://www.youtube.com/channel/UCM9cTs_C0PmTlHXTNrqTpnw)
+- [Async](https://www.youtube.com/channel/UCh0nkalFWOHi4UlYnI0w13w)
+- [BristolJS](https://www.youtube.com/channel/UCPOICck6I3zqGveOs6aFT5A)
+- [NLHTML5](https://www.youtube.com/user/nlhtml5)
+- [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ)
 
 ## Русскоязычные каналы
 
