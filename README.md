@@ -4,18 +4,18 @@ A collection of useful YouTube channels and other videos sources for javascript 
 
 Feel free to make a pull request with missing channel.
 
-- [English language](#english-language-channels)
+- [English language](#english-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings)
-- [Russian language](#Русскоязычные-каналы)
+- [Russian language](#russian-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-1)
-- [French language](#french-language-channels)
-- [Portuguese language](#portuguese-language-channels)
-- [Czech language](#czech-language-channels)
+- [French language](#french-language)
+- [Portuguese language](#portuguese-language)
+- [Czech language](#czech-language)
 - [Hebrew language](#hebrew-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-2)
 - [Live coding streams](#live-coding-streams)
 
-## English language channels
+## English language
 
 - [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — tools, events recordings;
 - [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, functional programming, programming practices;
@@ -150,16 +150,16 @@ Feel free to make a pull request with missing channel.
 - [OdessaJS](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg)
 - [LvivJS](https://www.youtube.com/channel/UC6FuC3toXWdpNTVYdFd4quA)
 
-## French language channels
+## French language
 
 - [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS.
 
-## Portuguese language channels
+## Portuguese language
 
 - [WebSchool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) — MEAN (MongoDB, Express, Angular, Node.js), PostCSS, Sass, Koa, Git;
 - [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript.
 
-## Czech language channels
+## Czech language
 
 - [Frontendisti.cz](https://www.youtube.com/user/frontendisti) — HTML, CSS, Front-end.
 
