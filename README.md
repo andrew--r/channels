@@ -62,7 +62,8 @@ Feel free to make a pull request with missing channel.
 - [DECODED chats](https://www.youtube.com/channel/UC3QHpbE1_SidLc4j1lvpo5g) — interviews on SVG, PWAs, learning;
 - [Rem Zolotykh](https://www.youtube.com/user/MrRemchi) — React, Redux, Ember;
 - [Tim Ermilov](https://www.youtube.com/user/obercrash) — building products with JavaScript, from an idea to production-ready product;
-- [Byte-Sized Javascript](https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA) — short (five-to-ten minute) screencasts about JavaScript and related technologies.
+- [Byte-Sized Javascript](https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA) — short (five-to-ten minute) screencasts about JavaScript and related technologies;
+- [Coding Math](https://www.youtube.com/channel/UCF6F8LdCSWlRwQm_hfA2bcQ) — an ongoing series of video tutorials designed to teach you the math you need to understand as a programmer.
 
 ### Conferences and meetups recordings
 
