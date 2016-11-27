@@ -57,7 +57,10 @@ Feel free to make a pull request with missing channel.
 - [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) — ES6, JavaScript focused code-alongs.
 - [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa) — Javascript, CSS, HTML;
 - [Rally Coding](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg) — React and Redux, JavaScript;
-- [DECODED chats](https://www.youtube.com/channel/UC3QHpbE1_SidLc4j1lvpo5g) - interviews on SVG, PWAs, learning.
+- [DECODED chats](https://www.youtube.com/channel/UC3QHpbE1_SidLc4j1lvpo5g) — interviews on SVG, PWAs, learning;
+- [Rem Zolotykh](https://www.youtube.com/user/MrRemchi) — React, Redux, Ember;
+- [Tim Ermilov](https://www.youtube.com/user/obercrash) — building products with JavaScript, from an idea to production-ready product;
+- [Byte-Sized Javascript](https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA) — short (five-to-ten minute) screencasts about JavaScript and related technologies.
 
 ### Conferences and meetups recordings
 
@@ -84,6 +87,7 @@ Feel free to make a pull request with missing channel.
 - [BristolJS](https://www.youtube.com/channel/UCPOICck6I3zqGveOs6aFT5A)
 - [NLHTML5](https://www.youtube.com/user/nlhtml5)
 - [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ)
+- [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
 
 ## Russian language
 
