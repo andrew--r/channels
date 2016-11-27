@@ -4,13 +4,13 @@ A collection of useful YouTube channels and other videos sources for javascript 
 
 Feel free to make a pull request with missing channel.
 
-- [English language channels](#english-language-channels)
+- [English language](#english-language-channels)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings)
-- [Русскоязычные каналы](#Русскоязычные-каналы)
-	- [Записи с конференций и митапов](#Записи-с-конференций-и-митапов)
-- [French language channels](#french-language-channels)
-- [Portuguese language channels](#portuguese-language-channels)
-- [Czech language channels](#czech-language-channels)
+- [Russian language](#Русскоязычные-каналы)
+	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-1)
+- [French language](#french-language-channels)
+- [Portuguese language](#portuguese-language-channels)
+- [Czech language](#czech-language-channels)
 - [Live coding streams](#live-coding-streams)
 
 ## English language channels
@@ -85,7 +85,7 @@ Feel free to make a pull request with missing channel.
 - [NLHTML5](https://www.youtube.com/user/nlhtml5)
 - [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ)
 
-## Русскоязычные каналы
+## Russian language
 
 - [Sorax](http://www.youtube.com/user/ArtSorax) — основы CSS и JavaScript, обзоры инструментов, подкасты;
 - [Hexlet](https://www.youtube.com/user/HexletUniversity) - курсы по Computer Science, введение в JavaScript, вебинары, подкаст об информатике;
@@ -113,7 +113,7 @@ Feel free to make a pull request with missing channel.
 - [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS;
 - [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript.
 
-### Записи с конференций и митапов
+### Conferences and meetups recordings
 
 - [Яндекс.Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ) (+ лекции Школы разработки интерфейсов)
 - [Веб-стандарты](http://www.youtube.com/user/wstdays)
