@@ -11,6 +11,8 @@ Feel free to make a pull request with missing channel.
 - [French language](#french-language-channels)
 - [Portuguese language](#portuguese-language-channels)
 - [Czech language](#czech-language-channels)
+- [Hebrew language](#hebrew-language)
+	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-2)
 - [Live coding streams](#live-coding-streams)
 
 ## English language channels
@@ -160,6 +162,16 @@ Feel free to make a pull request with missing channel.
 ## Czech language channels
 
 - [Frontendisti.cz](https://www.youtube.com/user/frontendisti) — HTML, CSS, Front-end.
+
+## Hebrew language
+
+### Conferences and meetups recordings
+
+- [AngularJS Israel](https://www.youtube.com/user/AngularJSIL)
+- [ReactIL](https://www.youtube.com/channel/UC7AkWgJFP_hBoU0M7_n0prQ)
+- [Javascript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g)
+- [GDG Israel](https://www.youtube.com/user/GTUGIsrael)
+- [FullStack Developer Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A)
 
 ## Live coding streams
 
