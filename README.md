@@ -1,6 +1,6 @@
-# YouTube channels for frontend developers
+# YouTube (mostly, but not only) channels for frontend developers
 
-A collection of useful YouTube channels for javascript developers and web designers.
+A collection of useful YouTube channels and other videos sources for javascript developers and web designers.
 
 Feel free to make a pull request with missing channel.
 
