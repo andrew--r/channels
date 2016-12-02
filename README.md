@@ -164,6 +164,10 @@ Feel free to make a pull request with missing channel.
 
 - [Frontendisti.cz](https://www.youtube.com/user/frontendisti) — HTML, CSS, Front-end.
 
+## Dutch language
+
+- [Fronteers](https://fronteers.nl/videos) — HTML, CSS, JavaScript, Front-end.
+
 ## Hebrew language
 
 ### Conferences and meetups recordings
