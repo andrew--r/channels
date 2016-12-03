@@ -56,14 +56,15 @@ Feel free to make a pull request with missing channel.
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, CSS, Sass;
 - [Ihatetomatoes](https://www.youtube.com/user/ihatetomatoesblog) — GreenSock, ScrollMagick, tools;
 - [Watch and Learn](https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA) — building SPA with Vue.js and Drupal;
-- [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) — ES6, JavaScript focused code-alongs.
+- [Ryan Christiani](https://www.youtube.com/channel/UCGzkH_sGqhiZfsk2khuhmZg) — ES6, JavaScript focused code-alongs;
 - [Kirupa Chinnathambi](https://www.youtube.com/user/kirupa) — Javascript, CSS, HTML;
 - [Rally Coding](https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg) — React and Redux, JavaScript;
 - [DECODED chats](https://www.youtube.com/channel/UC3QHpbE1_SidLc4j1lvpo5g) — interviews on SVG, PWAs, learning;
 - [Rem Zolotykh](https://www.youtube.com/user/MrRemchi) — React, Redux, Ember;
 - [Tim Ermilov](https://www.youtube.com/user/obercrash) — building products with JavaScript, from an idea to production-ready product;
 - [Byte-Sized Javascript](https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA) — short (five-to-ten minute) screencasts about JavaScript and related technologies;
-- [Coding Math](https://www.youtube.com/channel/UCF6F8LdCSWlRwQm_hfA2bcQ) — an ongoing series of video tutorials designed to teach you the math you need to understand as a programmer.
+- [Coding Math](https://www.youtube.com/channel/UCF6F8LdCSWlRwQm_hfA2bcQ) — an ongoing series of video tutorials designed to teach you the math you need to understand as a programmer;
+- [Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) — Node.js, Angular, ReactJS, Redux, Vue.js.
 
 ### Conferences and meetups recordings
 
@@ -118,7 +119,13 @@ Feel free to make a pull request with missing channel.
 - [Learn Programming](https://www.youtube.com/user/nikitaseverinov) — Node.js, HTML5 Canvas, WebGL, Three.js, GameDev;
 - [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g) — обзоры инструментов, автоматизация;
 - [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS;
-- [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript.
+- [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript;
+- [Ausite Blog](https://www.youtube.com/channel/UCS4siVGRQuIb3nBNu4Sv4Lg) — Vue.js, RiotJS, Socket.io;
+- [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw) — HTML, CSS, БЭМ, SASS, Bootstrap, jQuery;
+- [Web Developer Blog](https://www.youtube.com/user/AlexeySuprun) — основы JavaScript, HTML, CSS, Bootstrap 3, Foundation, обзор редакторов Sublime Text и Atom;
+- [Artem Demo](https://www.youtube.com/user/artemdemo) — разработка гибридных приложений под Android на веб-технологиях, Angular, jQuery mobile;
+- [Дмитрий Лаврик](https://www.youtube.com/user/dmitrylavr) — основы HTML и CSS, JavaScript, NPM, WebGL, Three.js;
+- [Блог о веб-разработке Rightblog.ru](https://www.youtube.com/channel/UCBB1kqYMWUrSxrQkq8BYzZA) — HTML, CSS, jQuery, Sublime Text и Brackets.
 
 ### Conferences and meetups recordings
 
