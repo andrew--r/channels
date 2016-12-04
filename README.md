@@ -13,6 +13,8 @@ Feel free to make a pull request with missing channel.
 - [Czech language](#czech-language)
 - [Hebrew language](#hebrew-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-2)
+- [Polish language](#hebrew-language)
+	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-3)
 - [Live coding streams](#live-coding-streams)
 
 ## English language
@@ -182,6 +184,16 @@ Feel free to make a pull request with missing channel.
 - [Javascript Israel](https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g)
 - [GDG Israel](https://www.youtube.com/user/GTUGIsrael)
 - [FullStack Developer Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A)
+
+## Polish language
+
+- [Pasja informatyki](https://www.youtube.com/user/MiroslawZelent) — HTML, CSS, JavaScript;
+- [Adrian Bienias](https://www.youtube.com/user/ADRIANBIENIASpl) — CSS, JavaScript, tools;
+- [Od zera do WebDeva](https://www.youtube.com/channel/UCrSxel4Mheo6XA8IPMA-3ZQ) — Angular2.
+
+### Conferences and meetups recordings
+
+- [WarsawJS](https://www.youtube.com/channel/UCzYf3wdKSKnR5lvkRVUyCYg)
 
 ## Live coding streams
 
