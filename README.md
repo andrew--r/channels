@@ -64,7 +64,8 @@ Feel free to make a pull request with missing channel.
 - [Tim Ermilov](https://www.youtube.com/user/obercrash) — building products with JavaScript, from an idea to production-ready product;
 - [Byte-Sized Javascript](https://www.youtube.com/channel/UC8OLZSlFO8cwRo9M30v-TkA) — short (five-to-ten minute) screencasts about JavaScript and related technologies;
 - [Coding Math](https://www.youtube.com/channel/UCF6F8LdCSWlRwQm_hfA2bcQ) — an ongoing series of video tutorials designed to teach you the math you need to understand as a programmer;
-- [Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) — Node.js, Angular, ReactJS, Redux, Vue.js.
+- [Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) — Node.js, Angular, ReactJS, Redux, Vue.js;
+- [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) — Git, Vue.js.
 
 ### Conferences and meetups recordings
 
