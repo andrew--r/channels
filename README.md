@@ -93,6 +93,7 @@ Feel free to make a pull request with missing channel.
 - [NLHTML5](https://www.youtube.com/user/nlhtml5)
 - [SFHTML5](https://www.youtube.com/channel/UCyupHmJVuUGpCMzemHYnUqQ)
 - [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
+- [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
 
 ## Russian language
 
