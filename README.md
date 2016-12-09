@@ -169,7 +169,12 @@ Feel free to make a pull request with missing channel.
 ## Portuguese language
 
 - [WebSchool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) — MEAN (MongoDB, Express, Angular, Node.js), PostCSS, Sass, Koa, Git;
-- [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript.
+- [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript;
+- [Rodrigo Branas](https://www.youtube.com/user/rodrigobranas) — JavaScript, Node.js, Angular, Grunt/Gulp, Git, Bower;
+- [Fabio Vedovelli](https://www.youtube.com/user/vedovelli) — Vue.js;
+- [Loiane Groner](https://www.youtube.com/user/Loianeg) — JavaScript, Angular 2, Phonegap/Cordova, CSS3, Sass, Compass;
+- [Css CastShow](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA) — CSS, Polymer;
+- [UpInside Treinamentos](https://www.youtube.com/user/UpInsideBr) — HTML, CSS.
 
 ## Czech language
 
