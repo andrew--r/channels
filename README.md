@@ -70,6 +70,7 @@ Feel free to make a pull request with missing channel.
 - [Coding Math](https://www.youtube.com/channel/UCF6F8LdCSWlRwQm_hfA2bcQ) — an ongoing series of video tutorials designed to teach you the math you need to understand as a programmer
 - [Mindspace](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) — Node.js, Angular, ReactJS, Redux, Vue.js
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) — Git, Vue.js
+- [Meteor](https://www.youtube.com/user/MeteorVideos) — videos on Meteor and stuff around it
 
 ### Conferences and meetups recordings
 
