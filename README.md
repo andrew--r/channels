@@ -15,6 +15,8 @@ Feel free to make a pull request with missing channel.
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-2)
 - [Polish language](#hebrew-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-3)
+- [Dutch language](#dutch-language)
+	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-4)
 - [Live coding streams](#live-coding-streams)
 
 ## English language
@@ -199,6 +201,12 @@ Feel free to make a pull request with missing channel.
 ### Conferences and meetups recordings
 
 - [WarsawJS](https://www.youtube.com/channel/UCzYf3wdKSKnR5lvkRVUyCYg)
+
+## Dutch language
+
+### Conferences and meetups recordings
+
+- [Fronteers](https://fronteers.nl/videos) — HTML, CSS, JavaScript
 
 ## Live coding streams
 
