@@ -213,3 +213,7 @@ Feel free to make a pull request with missing channel.
 
 - [Livecoding.tv](https://www.livecoding.tv)
 - [Twitch Programming channel](https://www.twitch.tv/directory/game/Creative/programming)
+
+## External Resources
+
+- [Web Learn](https://freearhey.github.io/web-learn)
