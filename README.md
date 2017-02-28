@@ -165,6 +165,7 @@ Feel free to make a pull request with missing channel.
 - [KyivJS](https://www.youtube.com/channel/UCOeSzR4BeXpsXGW6P0Pv9sA)
 - [OdessaJS](https://www.youtube.com/channel/UCcMRMeq7LWxpuBOrGiCeacg)
 - [LvivJS](https://www.youtube.com/channel/UC6FuC3toXWdpNTVYdFd4quA)
+- [pitercss_meetup](https://www.youtube.com/channel/UCrttsZVR3TmMzIZIqtqD6ZA)
 
 ## French language
 
