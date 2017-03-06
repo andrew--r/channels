@@ -134,6 +134,7 @@ Feel free to make a pull request with missing channel.
 - [Artem Demo](https://www.youtube.com/user/artemdemo) — разработка гибридных приложений под Android на веб-технологиях, Angular, jQuery mobile
 - [Дмитрий Лаврик](https://www.youtube.com/user/dmitrylavr) — основы HTML и CSS, JavaScript, NPM, WebGL, Three.js
 - [Блог о веб-разработке Rightblog.ru](https://www.youtube.com/channel/UCBB1kqYMWUrSxrQkq8BYzZA) — HTML, CSS, jQuery, Sublime Text и Brackets
+-[Javascript.Ninja](https://www.youtube.com/channel/UCW9pyonagDWGMCy7V_Kro6g) — JavaScript, Node.js, Vue.js
 
 ### Conferences and meetups recordings
 
