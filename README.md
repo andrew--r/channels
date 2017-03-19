@@ -136,6 +136,7 @@ Feel free to make a pull request with missing channel.
 - [Дмитрий Лаврик](https://www.youtube.com/user/dmitrylavr) — основы HTML и CSS, JavaScript, NPM, WebGL, Three.js
 - [Блог о веб-разработке Rightblog.ru](https://www.youtube.com/channel/UCBB1kqYMWUrSxrQkq8BYzZA) — HTML, CSS, jQuery, Sublime Text и Brackets
 - [Javascript.Ninja](https://www.youtube.com/channel/UCW9pyonagDWGMCy7V_Kro6g) — JavaScript, Node.js, Vue.js
+- [Dev Talk](https://www.youtube.com/channel/UC6WoOFmr4zhuUdVK9Hgh0tA) — Vim
 
 ### Conferences and meetups recordings
 
