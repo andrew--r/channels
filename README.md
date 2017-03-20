@@ -170,6 +170,7 @@ Feel free to make a pull request with missing channel.
 - [LvivJS](https://www.youtube.com/channel/UC6FuC3toXWdpNTVYdFd4quA)
 - [pitercss_meetup](https://www.youtube.com/channel/UCrttsZVR3TmMzIZIqtqD6ZA)
 - [MinskJS](https://www.youtube.com/channel/UClp8fFQIhFWT9uSmFYx41RA)
+- [moscowcss](https://www.youtube.com/channel/UCRZiFovkS0ROP85TxP3oV4Q)
 
 ## French language
 
