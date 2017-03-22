@@ -137,7 +137,7 @@ Feel free to make a pull request with missing channel.
 - [Блог о веб-разработке Rightblog.ru](https://www.youtube.com/channel/UCBB1kqYMWUrSxrQkq8BYzZA) — HTML, CSS, jQuery, Sublime Text и Brackets
 - [Javascript.Ninja](https://www.youtube.com/channel/UCW9pyonagDWGMCy7V_Kro6g) — JavaScript, Node.js, Vue.js
 - [Dev Talk](https://www.youtube.com/channel/UC6WoOFmr4zhuUdVK9Hgh0tA) — Vim
-- [Habrahabr](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w) (+ записи конференции HighLoad++)
+- [Habrahabr](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w) — доклады и интервью с конференции HighLoad++
 
 ### Conferences and meetups recordings
 
