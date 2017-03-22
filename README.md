@@ -171,7 +171,7 @@ Feel free to make a pull request with missing channel.
 - [pitercss_meetup](https://www.youtube.com/channel/UCrttsZVR3TmMzIZIqtqD6ZA)
 - [MinskJS](https://www.youtube.com/channel/UClp8fFQIhFWT9uSmFYx41RA)
 - [moscowcss](https://www.youtube.com/channel/UCRZiFovkS0ROP85TxP3oV4Q)
-- [HighLoad++](http://www.highload.ru/)
+- [HighLoad++](https://www.youtube.com/playlist?list=PLiBYz3OQubLryzLMpCrSZ7rS87sxo5ZO_)
 
 ## French language
 
