@@ -101,6 +101,7 @@ Feel free to make a pull request with missing channel.
 - [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
 - [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
 - [JS Kongress](https://www.youtube.com/channel/UCe2uw4y9oTxfq-Z61ODWRhg)
+- [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 
 ## Russian language
 
