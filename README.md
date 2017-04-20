@@ -103,6 +103,7 @@ Feel free to make a pull request with missing channel.
 - [JS Kongress](https://www.youtube.com/channel/UCe2uw4y9oTxfq-Z61ODWRhg)
 - [ng-conf](https://www.youtube.com/channel/UCm9iiIfgmVODUJxINecHQkA)
 - [White October Events](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
+- [Frontend NE](https://www.youtube.com/channel/UC-OBXzVskg2wGe8LWXFdejA)
 
 ## Russian language
 
