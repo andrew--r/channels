@@ -88,7 +88,7 @@ Feel free to make a pull request with missing channel.
 - [Smashing Magazine](https://vimeo.com/smashingmagazine)
 - [Fronteers](https://vimeo.com/fronteers)
 - [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
-- [Pusher](https://www.youtube.com/user/pusherapp) — Front-end London, AsyncJS, JS Monthly London, JSOxford
+- [Sessions by Pusher](https://pusher.com/sessions) — Front-end London, AsyncJS, JS Monthly London, JSOxford
 - [Codegram Technologies](https://www.youtube.com/channel/UCwoOpKfkyCQHW562hXXQAGg) — Full Stack Fest
 - [Modern Web](https://www.youtube.com/channel/UCHkqtrnQO2HMyW50ixOtJGw)
 - [Netflix UI Engineering](https://www.youtube.com/channel/UCGGRRqAjPm6sL3-WGBDnKJA)
