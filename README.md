@@ -72,6 +72,7 @@ Feel free to make a pull request with missing channel.
 - [DevMarketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA) — Git, Vue.js
 - [Meteor](https://www.youtube.com/user/MeteorVideos) — videos on Meteor and stuff around it
 - [The Coding Train](https://www.youtube.com/user/shiffman) — a lot of interesting stuff on computer science and programming fundamentals
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb) — CSS frameworks (Bootstrap, Foundation), jQuery, ES6, Node.js, Angular, Ionic, React, Flux
 
 ### Conferences and meetups recordings
 
