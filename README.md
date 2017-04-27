@@ -180,6 +180,7 @@ Feel free to make a pull request with missing channel.
 - [moscowcss](https://www.youtube.com/channel/UCRZiFovkS0ROP85TxP3oV4Q)
 - [fwdays](https://www.youtube.com/user/fwdays)
 - [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg)
+- [Ontico Team](https://www.youtube.com/user/profyclub)
 
 ## French language
 
