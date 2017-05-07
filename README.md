@@ -181,6 +181,7 @@ Feel free to make a pull request with missing channel.
 - [fwdays](https://www.youtube.com/user/fwdays)
 - [AvitoTech](https://www.youtube.com/channel/UCO2w0cpl1wxygHjQH6eEfEg)
 - [Ontico Team](https://www.youtube.com/user/profyclub)
+- [UralJS](https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw)
 
 ## French language
 
