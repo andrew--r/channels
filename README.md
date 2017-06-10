@@ -75,6 +75,7 @@ Feel free to make a pull request with missing channel.
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb) — CSS frameworks (Bootstrap, Foundation), jQuery, ES6, Node.js, Angular, Ionic, React, Flux
 - [Java Brains](https://www.youtube.com/user/koushks) — JavaScript, Angular
 - [Sam Saccone](https://www.youtube.com/channel/UCxmVqdNdRsNhXpb0uvtXOYg) — Performance optimization
+- [Computerphile](https://www.youtube.com/user/Computerphile) — lots of videos on general computer science topics
 
 ### Conferences and meetups recordings
 
