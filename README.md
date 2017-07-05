@@ -110,6 +110,7 @@ Feel free to make a pull request with missing channel.
 - [Frontend NE](https://www.youtube.com/channel/UC-OBXzVskg2wGe8LWXFdejA)
 - [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
 - [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
+- [Script](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ)
 
 ## Russian language
 
