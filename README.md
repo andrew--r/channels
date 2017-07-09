@@ -111,6 +111,7 @@ Feel free to make a pull request with missing channel.
 - [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
 - [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
 - [Script](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ)
+- [DinosaurJS](https://www.youtube.com/channel/UCc_y38wjXbStHx8qcFIvTIQ)
 
 ## Russian language
 
