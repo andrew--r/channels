@@ -188,7 +188,7 @@ Feel free to make a pull request with missing channel.
 - [Ontico Team](https://www.youtube.com/user/profyclub)
 - [UralJS](https://www.youtube.com/channel/UCyRou_txbZBZ_aT5duHaQXw)
 - [React Kyiv](https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg)
-- [Angular Moscow Meetup](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
+- [Angular Moscow](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 
 ## French language
 
