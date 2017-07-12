@@ -76,6 +76,7 @@ Feel free to make a pull request with missing channel.
 - [Java Brains](https://www.youtube.com/user/koushks) — JavaScript, Angular
 - [Sam Saccone](https://www.youtube.com/channel/UCxmVqdNdRsNhXpb0uvtXOYg) — Performance optimization
 - [Computerphile](https://www.youtube.com/user/Computerphile) — lots of videos on general computer science topics
+- [CodeWorkr](https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw) — JavaScript, Node.js, REST API
 
 ### Conferences and meetups recordings
 
