@@ -153,6 +153,7 @@ Feel free to make a pull request with missing channel.
 - [Dev Talk](https://www.youtube.com/channel/UC6WoOFmr4zhuUdVK9Hgh0tA) — Vim
 - [Habrahabr](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w) — доклады и интервью с конференции HighLoad++
 - [ALL YOUR HTML (Юрий Артюх)](https://www.youtube.com/user/flintyara) — лайвстримы по вёрстке и анимации
+- [CSSSR](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) — лайвстримы, Vue.js
 
 ### Conferences and meetups recordings
 
