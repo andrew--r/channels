@@ -117,6 +117,7 @@ Feel free to make a pull request with missing channel.
 - [DinosaurJS](https://www.youtube.com/channel/UCc_y38wjXbStHx8qcFIvTIQ)
 - [AmsterdamJS](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
 - [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ)
+- [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
 
 ## Russian language
 
