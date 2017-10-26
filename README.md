@@ -199,6 +199,7 @@ Feel free to make a pull request with missing channel.
 - [React Kyiv](https://www.youtube.com/channel/UCsujMNYN0c8ehIPj4oA8_zg)
 - [Angular Moscow](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 - [ChernivtsiJS](https://www.youtube.com/channel/UCYEzRVsalLCq36XZXZjujjw)
+- [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
 
 ## French language
 
