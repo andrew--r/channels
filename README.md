@@ -118,6 +118,7 @@ Feel free to make a pull request with missing channel.
 - [AmsterdamJS](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
 - [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ)
 - [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
+- [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
 
 ## Russian language
 
