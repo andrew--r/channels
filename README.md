@@ -9,6 +9,7 @@ Feel free to make a pull request with missing channel.
 - [Russian language](#russian-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-1)
 - [French language](#french-language)
+- [Arabic language](#arabic-language)
 - [Portuguese language](#portuguese-language)
 - [Czech language](#czech-language)
 - [Hebrew language](#hebrew-language)
@@ -205,6 +206,10 @@ Feel free to make a pull request with missing channel.
 ## French language
 
 - [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS
+
+## Arabic language
+
+- [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - HTML, CSS, Sass, JavaScript, jQuery, PHP, Ajax, Bootstrap, MySQL, WordPress.
 
 ## Portuguese language
 
