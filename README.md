@@ -80,6 +80,7 @@ Feel free to make a pull request with missing channel.
 - [CodeWorkr](https://www.youtube.com/channel/UCfYTu_qAO5T7a-8rC_74Ypw) — JavaScript, Node.js, REST API
 - [OK GROW!](https://www.youtube.com/channel/UCemC4xuL1cZhVlixuoEjtSg/feed) — Meteor, HashBang podcast, Transmission podcast
 - [RoboSquidTV](https://www.youtube.com/channel/UC7vYUkA-s5XVjS7UoyGSFbg) — basics of HTML/CSS, CSS animations, live web design
+- [SketchpunkLabs](https://www.youtube.com/channel/UCSnyjB_8iVxi2ZAfn_1L6tA) — WebGL 2 screencasts
 
 ### Conferences and meetups recordings
 
