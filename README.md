@@ -121,6 +121,7 @@ Feel free to make a pull request with missing channel.
 - [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ)
 - [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
 - [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
+- [Compose Conference](https://www.youtube.com/channel/UC0pEknZxL7Q1j0Ok8qImWdQ)
 
 ## Russian language
 
