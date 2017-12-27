@@ -14,7 +14,7 @@ Feel free to make a pull request with missing channel.
 - [Czech language](#czech-language)
 - [Hebrew language](#hebrew-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-2)
-- [Polish language](#hebrew-language)
+- [Polish language](#polish-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-3)
 - [Dutch language](#dutch-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-4)
