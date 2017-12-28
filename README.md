@@ -18,6 +18,7 @@ Feel free to make a pull request with missing channel.
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-3)
 - [Dutch language](#dutch-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-4)
+- [Spanish language](#spanish-language)
 - [Live coding streams](#live-coding-streams)
 
 ## English language
@@ -253,6 +254,10 @@ Feel free to make a pull request with missing channel.
 ### Conferences and meetups recordings
 
 - [Fronteers](https://fronteers.nl/videos) — HTML, CSS, JavaScript
+
+## Spanish language
+
+- [NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow/)
 
 ## Live coding streams
 
