@@ -5,7 +5,7 @@ A collection of useful YouTube channels and other videos sources for javascript 
 Feel free to make a pull request with missing channel.
 
 - [English language](#english-language)
-	- [Conferences and meetups recordings](#conferences-and-meetups-recordings)
+    - [Conferences and meetups recordings](#conferences-and-meetups-recordings)
 - [Russian language](#russian-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-1)
 - [French language](#french-language)
@@ -18,6 +18,7 @@ Feel free to make a pull request with missing channel.
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-3)
 - [Dutch language](#dutch-language)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-4)
+- [Spanish language](#spanish-language)
 - [Live coding streams](#live-coding-streams)
 
 ## English language
@@ -253,6 +254,10 @@ Feel free to make a pull request with missing channel.
 ### Conferences and meetups recordings
 
 - [Fronteers](https://fronteers.nl/videos) — HTML, CSS, JavaScript
+
+## Spanish language
+
+- [Colombia, Medellin](https://dev-medellin.herokuapp.com/) — NodeJS, Front-end, React, Redux, Ember, etc.
 
 ## Live coding streams
 
