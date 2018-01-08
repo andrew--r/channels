@@ -165,6 +165,7 @@ Feel free to make a pull request with missing channel.
 - [.getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg) — короткие обзоры возможностей JavaScript, браузерных API и инструментов
 - [VueJS.fun](https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw) — скринкасты по Vue.js
 - [SkillBranch](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw) — дизайн, Node.js + React
+- [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists) — вёрстка, JavaScript, Pug, Gulp
 
 
 ### Conferences and meetups recordings
