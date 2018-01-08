@@ -257,7 +257,7 @@ Feel free to make a pull request with missing channel.
 
 ## Spanish language
 
-- [NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow/)
+- [NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow/) — Node.js, spanish meetups recordings
 
 ## Live coding streams
 
