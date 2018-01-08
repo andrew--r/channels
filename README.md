@@ -223,8 +223,8 @@ Feel free to make a pull request with missing channel.
 - [Loiane Groner](https://www.youtube.com/user/Loianeg) — JavaScript, Angular 2, Phonegap/Cordova, CSS3, Sass, Compass
 - [Css CastShow](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA) — CSS, Polymer
 - [UpInside Treinamentos](https://www.youtube.com/user/UpInsideBr) — HTML, CSS
-- [João Ribeiro](https://www.youtube.com/user/JLDRPT) — HTML, CSS, Javascript, Angular, TypeScrip
-- [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/) — HTML5
+- [João Ribeiro](https://www.youtube.com/user/JLDRPT) — HTML, CSS, Javascript, Angular, TypeScript
+- [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/) — HTML
 - [Tony França](https://www.youtube.com/channel/UCOnW_nxKxwXOS-KPuv2YEKA) — Vue.js, Angular
 
 ## Czech language
