@@ -124,6 +124,7 @@ Feel free to make a pull request with missing channel.
 - [NebraskaJS](https://www.youtube.com/channel/UCsMSRfQ22gGRLu5kRBMYpjg)
 - [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
 - [Compose Conference](https://www.youtube.com/channel/UC0pEknZxL7Q1j0Ok8qImWdQ)
+- [ColdFront](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw)
 
 ## Russian language
 
@@ -210,6 +211,7 @@ Feel free to make a pull request with missing channel.
 - [Angular Moscow](https://www.youtube.com/channel/UCpDTAtunmHBcI6CsJoUV7ww)
 - [ChernivtsiJS](https://www.youtube.com/channel/UCYEzRVsalLCq36XZXZjujjw)
 - [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
+- [FrontFest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA)
 
 ## French language
 
