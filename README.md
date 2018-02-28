@@ -125,6 +125,7 @@ Feel free to make a pull request with missing channel.
 - [Design Systems Coalition NYC](https://www.youtube.com/channel/UC0qWdJQb-hCUVp4ZfbPuPUQ)
 - [Compose Conference](https://www.youtube.com/channel/UC0pEknZxL7Q1j0Ok8qImWdQ)
 - [ColdFront](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw)
+- [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
 
 ## Russian language
 
