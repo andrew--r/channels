@@ -4,24 +4,24 @@ A collection of useful YouTube channels and other videos sources for javascript 
 
 Feel free to make a pull request with missing channel.
 
-- [English language](#english-language)
+- [English](#english)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings)
-- [Russian language](#russian-language)
+- [Russian](#russian)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-1)
-- [French language](#french-language)
-- [Arabic language](#arabic-language)
-- [Portuguese language](#portuguese-language)
-- [Czech language](#czech-language)
-- [Hebrew language](#hebrew-language)
+- [French](#french)
+- [Arabic](#arabic)
+- [Portuguese](#portuguese)
+- [Czech](#czech)
+- [Hebrew](#hebrew)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-2)
-- [Polish language](#polish-language)
+- [Polish](#polish)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-3)
-- [Dutch language](#dutch-language)
+- [Dutch](#dutch)
 	- [Conferences and meetups recordings](#conferences-and-meetups-recordings-4)
-- [Spanish language](#spanish-language)
+- [Spanish](#spanish)
 - [Live coding streams](#live-coding-streams)
 
-## English language
+## English
 
 - [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — tools, events recordings
 - [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, functional programming, programming practices
@@ -127,7 +127,7 @@ Feel free to make a pull request with missing channel.
 - [ColdFront](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw)
 - [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
 
-## Russian language
+## Russian
 
 - [Sorax](http://www.youtube.com/user/ArtSorax) — основы CSS и JavaScript, обзоры инструментов, подкасты
 - [Hexlet](https://www.youtube.com/user/HexletUniversity) - курсы по Computer Science, введение в JavaScript, вебинары, подкаст об информатике
@@ -214,15 +214,15 @@ Feel free to make a pull request with missing channel.
 - [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
 - [FrontFest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA)
 
-## French language
+## French
 
 - [Grafikart](https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ) — HTML, CSS, JavaScript, NodeJS
 
-## Arabic language
+## Arabic
 
 - [Elzero Web School](https://www.youtube.com/user/OsamaElzero/) - HTML, CSS, Sass, JavaScript, jQuery, PHP, Ajax, Bootstrap, MySQL, WordPress.
 
-## Portuguese language
+## Portuguese
 
 - [WebSchool](https://www.youtube.com/channel/UCKdo1RaF8gzfhvkOdZv_ojg) — MEAN (MongoDB, Express, Angular, Node.js), PostCSS, Sass, Koa, Git
 - [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript
@@ -235,11 +235,11 @@ Feel free to make a pull request with missing channel.
 - [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/) — HTML
 - [Tony França](https://www.youtube.com/channel/UCOnW_nxKxwXOS-KPuv2YEKA) — Vue.js, Angular
 
-## Czech language
+## Czech
 
 - [Frontendisti.cz](https://www.youtube.com/user/frontendisti) — HTML, CSS, Front-end
 
-## Hebrew language
+## Hebrew
 
 ### Conferences and meetups recordings
 
@@ -249,7 +249,7 @@ Feel free to make a pull request with missing channel.
 - [GDG Israel](https://www.youtube.com/user/GTUGIsrael)
 - [FullStack Developer Israel](https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A)
 
-## Polish language
+## Polish
 
 - [Pasja informatyki](https://www.youtube.com/user/MiroslawZelent) — HTML, CSS, JavaScript
 - [Adrian Bienias](https://www.youtube.com/user/ADRIANBIENIASpl) — CSS, JavaScript, tools
@@ -259,13 +259,13 @@ Feel free to make a pull request with missing channel.
 
 - [WarsawJS](https://www.youtube.com/channel/UCzYf3wdKSKnR5lvkRVUyCYg)
 
-## Dutch language
+## Dutch
 
 ### Conferences and meetups recordings
 
 - [Fronteers](https://fronteers.nl/videos) — HTML, CSS, JavaScript
 
-## Spanish language
+## Spanish
 
 - [NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow/) — Node.js, spanish meetups recordings
 
