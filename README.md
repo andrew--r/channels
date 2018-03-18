@@ -84,7 +84,7 @@ Feel free to make a pull request with missing channel.
 - [SketchpunkLabs](https://www.youtube.com/channel/UCSnyjB_8iVxi2ZAfn_1L6tA) — WebGL 2 screencasts
 - [Ben Awad](https://www.youtube.com/user/99baddawg) — React, React Native, Redux, MobX, GraphQL, Next.js, software architecture
 - [Zell Liew](https://www.youtube.com/user/zellwk) — tooling, tips & tricks
-- [Ana Tudor](https://www.youtube.com/user/anaix3l) — CSS animations, screencasts
+- [Ana Tudor](https://www.youtube.com/user/anaix3l) — CSS and SVG animation
 
 ### Conferences and meetups recordings
 
