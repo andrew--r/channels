@@ -85,7 +85,7 @@ Feel free to make a pull request with missing channel.
 - [Ben Awad](https://www.youtube.com/user/99baddawg) — React, React Native, Redux, MobX, GraphQL, Next.js, software architecture
 - [Zell Liew](https://www.youtube.com/user/zellwk) — tooling, tips & tricks
 - [Ana Tudor](https://www.youtube.com/user/anaix3l) — CSS and SVG animation
-- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) — CSS, JavaScript, React, tutorials
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) — JavaScript, jQuery, React, data structures, mathematics, computer science
 
 ### Conferences and meetups recordings
 
