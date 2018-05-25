@@ -130,6 +130,7 @@ Feel free to make a pull request with missing channel.
 - [ColdFront](https://www.youtube.com/channel/UCZHbZVjG2wXaLCuHK3LZ5lw)
 - [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
 - [CSSConf Australia](https://www.youtube.com/channel/UCaitlwoIzU4HIkkRgmpDO8w)
+- [React Finland](https://www.youtube.com/channel/UCYRsLerK8J8uGWXFaprYa2A)
 
 ## Russian
 
