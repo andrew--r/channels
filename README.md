@@ -131,6 +131,7 @@ Feel free to make a pull request with missing channel.
 - [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
 - [CSSConf Australia](https://www.youtube.com/channel/UCaitlwoIzU4HIkkRgmpDO8w)
 - [React Finland](https://www.youtube.com/channel/UCYRsLerK8J8uGWXFaprYa2A)
+- [Frontend United](https://www.youtube.com/channel/UC6Q3-JjgMpb4Uy6YgHdJSMw)
 
 ## Russian
 
