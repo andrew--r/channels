@@ -219,6 +219,7 @@ Feel free to make a pull request with missing channel.
 - [ChernivtsiJS](https://www.youtube.com/channel/UCYEzRVsalLCq36XZXZjujjw)
 - [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
 - [FrontFest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA)
+- [JS NN](https://www.youtube.com/channel/UC4OQwFvLMPVFTqb0hyqknSw)
 
 ## French
 
