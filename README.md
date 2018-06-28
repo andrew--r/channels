@@ -132,6 +132,7 @@ Feel free to make a pull request with missing channel.
 - [CSSConf Australia](https://www.youtube.com/channel/UCaitlwoIzU4HIkkRgmpDO8w)
 - [React Finland](https://www.youtube.com/channel/UCYRsLerK8J8uGWXFaprYa2A)
 - [Frontend United](https://www.youtube.com/channel/UC6Q3-JjgMpb4Uy6YgHdJSMw)
+- [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
 
 ## Russian
 
