@@ -86,6 +86,7 @@ Feel free to make a pull request with missing channel.
 - [Zell Liew](https://www.youtube.com/user/zellwk) — tooling, tips & tricks
 - [Ana Tudor](https://www.youtube.com/user/anaix3l) — CSS and SVG animation
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) — JavaScript, jQuery, React, data structures, mathematics, computer science
+- [Prisma](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w) — GraphQL
 
 ### Conferences and meetups recordings
 
