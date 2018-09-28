@@ -136,6 +136,7 @@ Feel free to make a pull request with missing channel.
 - [You Gotta Love Frontend](https://www.youtube.com/channel/UCU-fOxx_kT5OARG0KiksiCA)
 - [Web Conferences Amsterdam](https://vimeo.com/webconferences)
 - [JSCamp](https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ)
+- [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw)
 
 ## Russian
 
