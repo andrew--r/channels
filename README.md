@@ -138,6 +138,7 @@ Feel free to make a pull request with missing channel.
 - [JSCamp](https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ)
 - [Web Audio Conf](https://www.youtube.com/channel/UCMaHc1Rq2viM88OsluS2WWw)
 - [London Accessibility Meetup](https://www.youtube.com/channel/UCDIVL2ytbhD9ZCn8GaEIi_g)
+- [GraphQL Finland](https://www.youtube.com/channel/UCReJkc0nO9jhVTNgm5psuFA)
 
 ## Russian
 
