@@ -141,6 +141,7 @@ Feel free to make a pull request with missing channel.
 - [GraphQL Finland](https://www.youtube.com/channel/UCReJkc0nO9jhVTNgm5psuFA)
 - [Dev Edmonton](https://www.youtube.com/channel/UCBC21Bfijpx4CCpjnBUdypg) — Exchange.js meetup
 - [ReactiveConf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
+- [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
 
 ## Russian
 
