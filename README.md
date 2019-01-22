@@ -259,6 +259,8 @@ Feel free to make a pull request with missing channel.
 
 ## Hebrew
 
+- [GoCode Sderot](https://www.youtube.com/c/GoCodeSderot) — Full-Stack course (HTML, CSS, Javascript, Vue.js, Node.js) with presentations & live coding
+
 ### Conferences and meetups recordings
 
 - [AngularJS Israel](https://www.youtube.com/user/AngularJSIL)
