@@ -291,5 +291,4 @@ Feel free to make a pull request with missing channel.
 
 ## Live coding streams
 
-- [Livecoding.tv](https://www.livecoding.tv)
-- [Twitch Programming channel](https://www.twitch.tv/directory/game/Creative/programming)
+- [Twitch Programming channels](https://www.twitch.tv/directory/game/Science%20%26%20Technology)
