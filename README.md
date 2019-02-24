@@ -291,4 +291,4 @@ Feel free to make a pull request with missing channel.
 
 ## Live coding streams
 
-- [Twitch Programming channels](https://www.twitch.tv/directory/game/Science%20%26%20Technology)
+- [noopkat on Twitch](https://www.twitch.tv/noopkat): open source JavaScript/Node.js
