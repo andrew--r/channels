@@ -88,6 +88,7 @@ Feel free to make a pull request with missing channel.
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) — JavaScript, jQuery, React, data structures, mathematics, computer science
 - [Prisma](https://www.youtube.com/channel/UCptAHlN1gdwD89tFM3ENb6w) — GraphQL
 - [AngularAir](https://www.youtube.com/c/AngularAirPodcast) - A live videocast all about Angular
+- [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw) - Javascript, React, live coding
 
 ### Conferences and meetups recordings
 
