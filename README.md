@@ -190,6 +190,7 @@ Feel free to make a pull request with missing channel.
 - [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists) — вёрстка, JavaScript, Pug, Gulp
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
 - [ngRuAir](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) - лайвстримы про Angular
+- [devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) - скринкасты, подкасты, интервью, Node.js
 
 
 ### Conferences and meetups recordings
