@@ -90,6 +90,7 @@ Feel free to make a pull request with missing channel.
 - [AngularAir](https://www.youtube.com/c/AngularAirPodcast) - A live videocast all about Angular
 - [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw) - Javascript, React, live coding
 - [Coding with Dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg) - Javascript, End-to-end testing, NightwatchJS, live coding
+- [Up & Running Tutorials](https://www.youtube.com/channel/UCrebROsxqMJJFN5uxoG1f2Q) - React, Gatsby
 
 ### Conferences and meetups recordings
 
