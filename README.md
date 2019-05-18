@@ -91,6 +91,7 @@ Feel free to make a pull request with missing channel.
 - [Kent C. Dodds](https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw) - Javascript, React, live coding
 - [Coding with Dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg) - Javascript, End-to-end testing, NightwatchJS, live coding
 - [Up & Running Tutorials](https://www.youtube.com/channel/UCrebROsxqMJJFN5uxoG1f2Q) - React, Gatsby
+- [CodyHouse ](https://www.youtube.com/channel/UCQhxjJcgCwDW_2JqlDBsWtA) - CSS, Sass, tutorials, screencasts
 
 ### Conferences and meetups recordings
 
@@ -192,6 +193,7 @@ Feel free to make a pull request with missing channel.
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
 - [ngRuAir](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) - лайвстримы про Angular
 - [devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) - скринкасты, подкасты, интервью, Node.js
+- [Vadim Makeev](https://www.youtube.com/user/pepelsbey) - CSS, SVG, accessibility, semantic, разборы, скринкасты
 
 
 ### Conferences and meetups recordings
@@ -237,6 +239,7 @@ Feel free to make a pull request with missing channel.
 - [Krasnodar Dev Days](https://www.youtube.com/channel/UCBVZa_qgKhT8_MMqvR0bNQA)
 - [FrontFest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA)
 - [JS NN](https://www.youtube.com/channel/UC4OQwFvLMPVFTqb0hyqknSw)
+- [TverIO ](https://www.youtube.com/channel/UCl5UjDgC4_SOjiLnIRznkEg/)
 
 ## French
 
