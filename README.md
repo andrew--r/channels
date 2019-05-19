@@ -151,7 +151,6 @@ Feel free to make a pull request with missing channel.
 
 - [Sorax](http://www.youtube.com/user/ArtSorax) — основы CSS и JavaScript, обзоры инструментов, подкасты
 - [Hexlet](https://www.youtube.com/user/HexletUniversity) - курсы по Computer Science, введение в JavaScript, вебинары, подкаст об информатике
-- [Glo Academy](http://www.youtube.com/c/gloacademychannel) — HTML, CSS, JavaScript, Работа над реальными фриланс-заказами
 - [Илья Кантор](https://www.youtube.com/user/iliakan/) - скринкасты по Node.js, Gulp и Webpack
 - [webtheory](http://www.youtube.com/user/WebTheory) — HTML5 и CSS3, CoffeeScript
 - [Magisters](http://www.youtube.com/user/WebMagistersRu) — основы HTML и JavaScript, видеокурс по Bootstrap
@@ -192,6 +191,7 @@ Feel free to make a pull request with missing channel.
 - [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists) — вёрстка, JavaScript, Pug, Gulp
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
 - [ngRuAir](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) - лайвстримы про Angular
+- [Glo Academy](http://www.youtube.com/c/gloacademychannel) — HTML, CSS, JavaScript
 - [devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) - скринкасты, подкасты, интервью, Node.js
 
 
