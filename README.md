@@ -193,7 +193,7 @@ Feel free to make a pull request with missing channel.
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
 - [ngRuAir](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) - лайвстримы про Angular
 - [devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) - скринкасты, подкасты, интервью, Node.js
-- [Vadim Makeev](https://www.youtube.com/user/pepelsbey) - CSS, SVG, accessibility, semantic, разборы, скринкасты
+- [Vadim Makeev](https://www.youtube.com/user/pepelsbey) - CSS, SVG, доступность, скринкасты, разборы сайтов
 
 
 ### Conferences and meetups recordings
