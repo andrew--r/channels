@@ -195,7 +195,7 @@ Feel free to make a pull request with missing channel.
 - [Glo Academy](http://www.youtube.com/c/gloacademychannel) — HTML, CSS, JavaScript
 - [devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) - скринкасты, подкасты, интервью, Node.js
 - [Vadim Makeev](https://www.youtube.com/user/pepelsbey) - CSS, SVG, доступность, скринкасты, разборы сайтов
-
+- [Vladilen Minin](https://www.youtube.com/c/VladilenMinin) — Vue.js, React, Svelte
 
 ### Conferences and meetups recordings
 
