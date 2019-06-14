@@ -196,6 +196,7 @@ Feel free to make a pull request with missing channel.
 - [devschacht](https://www.youtube.com/channel/UCTSVfbCKN3nZbogPtOCHcMg) - скринкасты, подкасты, интервью, Node.js
 - [Vadim Makeev](https://www.youtube.com/user/pepelsbey) - CSS, SVG, доступность, скринкасты, разборы сайтов
 - [Vladilen Minin](https://www.youtube.com/c/VladilenMinin) — Vue.js, React, Svelte
+- [webDev](https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg) — React, GraphQL, Vue, скринкасты, разборы сайтов
 
 ### Conferences and meetups recordings
 
