@@ -187,7 +187,7 @@ Feel free to make a pull request with missing channel.
 - [CSSSR](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) — лайвстримы, Vue.js
 - [.getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg) — короткие обзоры возможностей JavaScript, браузерных API и инструментов
 - [SkillBranch](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw) — дизайн, Node.js + React
-- [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA/playlists) — вёрстка, JavaScript, Pug, Gulp
+- [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA) — вёрстка, JavaScript, Pug, Gulp
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
 - [ngRuAir](https://www.youtube.com/channel/UCUIac80KeiumU29aOm-K3VQ) - лайвстримы про Angular
 - [Glo Academy](http://www.youtube.com/c/gloacademychannel) — HTML, CSS, JavaScript
