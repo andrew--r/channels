@@ -92,6 +92,7 @@ Feel free to make a pull request with missing channel.
 - [Coding with Dom](https://www.youtube.com/channel/UC1bvBZB7iL2goVOxSALVbCg) - Javascript, End-to-end testing, NightwatchJS, live coding
 - [Up & Running Tutorials](https://www.youtube.com/channel/UCrebROsxqMJJFN5uxoG1f2Q) - React, Gatsby
 - [CodyHouse ](https://www.youtube.com/channel/UCQhxjJcgCwDW_2JqlDBsWtA) - CSS, Sass, tutorials, screencasts
+- [keyframers ](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) - CSS, Sass, animations, tutorials, live coding, screencasts
 
 ### Conferences and meetups recordings
 
