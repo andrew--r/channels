@@ -93,6 +93,7 @@ Feel free to make a pull request with missing channel.
 - [Up & Running Tutorials](https://www.youtube.com/channel/UCrebROsxqMJJFN5uxoG1f2Q) - React, Gatsby
 - [CodyHouse ](https://www.youtube.com/channel/UCQhxjJcgCwDW_2JqlDBsWtA) - CSS, Sass, tutorials, screencasts
 - [keyframers ](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) - CSS, Sass, animations, tutorials, live coding, screencasts
+- [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - CSS, DevTools, tips & tricks
 
 ### Conferences and meetups recordings
 
