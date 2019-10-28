@@ -150,6 +150,7 @@ Feel free to make a pull request with missing channel.
 - [ReactiveConf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
 - [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw)
 - [JAMstack Conf](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg)
+- [CSScamp](https://www.youtube.com/channel/UCKmKXWKTnQjkh4SBxg-nWZg)
 
 ## Russian
 
