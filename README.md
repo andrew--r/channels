@@ -154,6 +154,7 @@ Feel free to make a pull request with missing channel.
 - [CSScamp](https://www.youtube.com/channel/UCKmKXWKTnQjkh4SBxg-nWZg)
 - [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
 - [Frontend Love](https://www.youtube.com/channel/UC1nBp6ouBB1o5P8YvPznPOw)
+- [CSS-Minsk-JS Conference](https://www.youtube.com/channel/UCWI2akcIFeaOs_sokIN8ptw)
 
 ## Russian
 
