@@ -95,6 +95,7 @@ Feel free to make a pull request with missing channel.
 - [keyframers ](https://www.youtube.com/channel/UCtmYk7H-NNYLEe_LgBRYomA) - CSS, Sass, animations, tutorials, live coding, screencasts
 - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - CSS, DevTools, tips & tricks
 - [Alex Carpenter](https://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg) - HTML, CSS, & JavaScript
+- [Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw) — JavaScript
 
 ### Conferences and meetups recordings
 
