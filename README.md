@@ -96,6 +96,7 @@ Feel free to make a pull request with missing channel.
 - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - CSS, DevTools, tips & tricks
 - [Alex Carpenter](https://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg) - HTML, CSS, & JavaScript
 - [Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw) — JavaScript
+- [Zaiste Programming](https://www.youtube.com/zaiste) - TypeScript/JavaScript & Node.js
 
 ### Conferences and meetups recordings
 
