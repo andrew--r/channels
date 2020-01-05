@@ -97,6 +97,7 @@ Feel free to make a pull request with missing channel.
 - [Alex Carpenter](https://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg) - HTML, CSS, & JavaScript
 - [Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw) — JavaScript
 - [Zaiste Programming](https://www.youtube.com/zaiste) - TypeScript/JavaScript & Node.js
+- [Paul Lewis](https://www.youtube.com/user/TheAerotwist) - JavaScript, WebComponents, HTML, CSS
 
 ### Conferences and meetups recordings
 
