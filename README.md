@@ -98,6 +98,7 @@ Feel free to make a pull request with missing channel.
 - [Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw) — JavaScript
 - [Zaiste Programming](https://www.youtube.com/zaiste) - TypeScript/JavaScript & Node.js
 - [Paul Lewis](https://www.youtube.com/user/TheAerotwist) - JavaScript, WebComponents, HTML, CSS
+- [Scaler Academy](https://www.youtube.com/scaleracademy) - Javascript, tutorial, live coding
 
 ### Conferences and meetups recordings
 
