@@ -41,7 +41,6 @@ Feel free to make a pull request with missing channel.
 - [Quentin Watt](http://www.youtube.com/user/QuentinWatt) — HTML, CSS, Bootstrap, JavaScript
 - [Source Decoded](http://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg) — JavaScript, Coding Principles
 - [Design Code Blade Nepal](https://www.youtube.com/channel/UCOL9ZxzRX9lIvOliY_oz0Ng) — CSS, JavaScript, Node.js, Angular
-- [George Mcknight](https://www.youtube.com/user/geomck1967) — building social network with Meteor and React
 - [Chris Coyier](http://www.youtube.com/user/realcsstricks) — HTML, CSS, JavaScript, a lot of screencasts
 - [SitePoint](https://www.youtube.com/user/SitePoint) — HTML, CSS, JavaScript, Sass, Web Design
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) — JavaScript, React
@@ -96,7 +95,7 @@ Feel free to make a pull request with missing channel.
 - [Mozilla Developer](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w) - CSS, DevTools, tips & tricks
 - [Alex Carpenter](https://www.youtube.com/channel/UC2jJoQlzvLPvnYfowAEVaOg) - HTML, CSS, & JavaScript
 - [Low Level JavaScript](https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw) — JavaScript
-- [Zaiste Programming](https://www.youtube.com/zaiste) - TypeScript/JavaScript & Node.js
+- [Zaiste Programming](https://www.youtube.com/user/ohzaiste) - TypeScript/JavaScript & Node.js
 - [Paul Lewis](https://www.youtube.com/user/TheAerotwist) - JavaScript, WebComponents, HTML, CSS
 - [Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) — teaching JavaScript, HTML and CSS in game form
 
@@ -188,7 +187,6 @@ Feel free to make a pull request with missing channel.
 - [SkanerSoft](https://www.youtube.com/channel/UCOTSosw_E-Cr88QkAb1Mdsg) — создание игр на JavaScript, PointJS
 - [Master-CSS](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg) — HTML, CSS, JavaScript
 - [Ausite Blog](https://www.youtube.com/channel/UCS4siVGRQuIb3nBNu4Sv4Lg) — Vue.js, RiotJS, Socket.io
-- [Уроки веб-разработки](https://www.youtube.com/channel/UCHHw70vvbfyM6xJQoV8U-Pw) — HTML, CSS, БЭМ, SASS, Bootstrap, jQuery
 - [Web Developer Blog](https://www.youtube.com/user/AlexeySuprun) — основы JavaScript, HTML, CSS, Bootstrap 3, Foundation, обзор редакторов Sublime Text и Atom
 - [Artem Demo](https://www.youtube.com/user/artemdemo) — разработка гибридных приложений под Android на веб-технологиях, Angular, jQuery mobile
 - [Дмитрий Лаврик](https://www.youtube.com/user/dmitrylavr) — основы HTML и CSS, JavaScript, NPM, WebGL, Three.js
@@ -198,7 +196,6 @@ Feel free to make a pull request with missing channel.
 - [Habrahabr](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w) — доклады и интервью с конференции HighLoad++
 - [ALL YOUR HTML (Юрий Артюх)](https://www.youtube.com/user/flintyara) — лайвстримы по вёрстке и анимации
 - [CSSSR](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) — лайвстримы, Vue.js
-- [.getInstance](https://www.youtube.com/channel/UCEBHlT_L1ME6e9ixaRPp0wg) — короткие обзоры возможностей JavaScript, браузерных API и инструментов
 - [SkillBranch](https://www.youtube.com/channel/UCWLKyJUZ32GJvSIisQjU3kw) — дизайн, Node.js + React
 - [FrontCoder](https://www.youtube.com/channel/UCzhKcnzGNhPEZsNSKjug1jA) — вёрстка, JavaScript, Pug, Gulp
 - [Timur Shemsedinov](https://www.youtube.com/user/sthxnp) — скринкасты академического уровня по JavaScript и Node.js
