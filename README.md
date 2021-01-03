@@ -25,8 +25,8 @@ Feel free to make a pull request with missing channel.
 
 - [Google Developers](http://www.youtube.com/user/GoogleDevelopers) — tools, events recordings
 - [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, functional programming, programming practices
-- [kevinpowell](https://www.youtube.com/KepowOb) — HTML, CSS, Layout/Design and JavaScript
-- [devmentorlive](https://www.youtube.com/devmentorlive) — ReactJS, JavaScript, ES6, functional programming, programming practices
+- [kevinpowell](https://www.youtube.com/KepowOb) — HTML, CSS, Layout/Design and JavaScript
+- [devmentorlive](https://www.youtube.com/devmentorlive) — React, JavaScript, ES6, functional programming, programming practices
 - [LevelUpTuts](http://www.youtube.com/user/LevelUpTuts) — HTML, Stylus, CSS, Sass
 - [DevTips](http://www.youtube.com/user/DevTipsForDesigners) — Foundation, CSS, RWD
 - [LearnCode.academy](http://www.youtube.com/user/learncodeacademy) — JavaScript, jQuery, React, Node.js, MEAN
