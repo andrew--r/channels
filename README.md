@@ -292,7 +292,13 @@ Feel free to make a pull request with missing channel.
 
 - [Pasja informatyki](https://www.youtube.com/user/MiroslawZelent) — HTML, CSS, JavaScript
 - [Adrian Bienias](https://www.youtube.com/user/ADRIANBIENIASpl) — CSS, JavaScript, tools
-- [Od zera do WebDeva](https://www.youtube.com/channel/UCrSxel4Mheo6XA8IPMA-3ZQ) — Angular2
+- [Od zera do WebDeva](https://www.youtube.com/channel/UCrSxel4Mheo6XA8IPMA-3ZQ) — Angular 2
+- [Koduje](https://www.youtube.com/channel/UCLLdzVN9P9lV8kmJhHsiuHA) — HTML, CSS, JavaScript
+- [Samuraj Programowania](https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg) — web development for beginners
+- [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g) — front-end development
+- [Maciej Aniserowicz](https://www.youtube.com/c/devstylepl) — general web development and IT topics
+- [overment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg) — medium web development, JavaScript (Vue, React), Node.js (Express.js, Nest.js)
+- [AlgoSmart - Marcin Czarkowski](https://www.youtube.com/channel/UCvjSjsFmNtkjXWX1L29OT_g) — React, TypeScript, JavaScript, CSS, HTML
 
 ### Conferences and meetups recordings
 
