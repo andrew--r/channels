@@ -161,6 +161,7 @@ Feel free to make a pull request with missing channel.
 - [Frontend Love](https://www.youtube.com/channel/UC1nBp6ouBB1o5P8YvPznPOw)
 - [CSS-Minsk-JS Conference](https://www.youtube.com/channel/UCWI2akcIFeaOs_sokIN8ptw)
 - [dotconferences](https://www.youtube.com/user/dotconferences)
+- [LeadDev](https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg)
 
 ## Russian
 
