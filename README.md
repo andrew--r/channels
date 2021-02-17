@@ -50,6 +50,7 @@ Feel free to make a pull request with missing channel.
 - [easydevtuts](http://www.youtube.com/user/easydevtuts) — Bootstrap, Foundation, Sass
 - [Envato Tuts+](https://www.youtube.com/channel/UC8lxnUR_CzruT2KA6cb7p0Q) — HTML, CSS
 - [Facebook Developers](https://www.youtube.com/user/FacebookDevelopers) — JavaScript, React
+- [Fireship](https://www.youtube.com/c/AngularFirebase) — JavaScript, Angular, React and much more in high intensity videos
 - [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) — JavaScript, jQuery, React, data structures, mathematics, computer science
 - [Front End TV](https://www.youtube.com/channel/UCztRO4rG71uxuR-Tpf_biww) — JavaScript, ES6, Node.js
 - [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) — JavaScript, ES6, functional programming, programming practices
@@ -314,6 +315,7 @@ Feel free to make a pull request with missing channel.
 
 ## Spanish
 
+- [midudev](https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ/) — Fullstack JS courses, tips and live coding
 - [NodersJS](https://www.youtube.com/channel/UC7tUsO3S7424TMcgSCUOCow/) — Node.js, spanish meetups recordings
 
 ## Live coding streams
