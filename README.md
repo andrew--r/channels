@@ -100,7 +100,7 @@ Feel free to make a pull request with missing channel.
 - [Zaiste Programming](https://www.youtube.com/user/ohzaiste) - TypeScript/JavaScript & Node.js
 - [Paul Lewis](https://www.youtube.com/user/TheAerotwist) - JavaScript, WebComponents, HTML, CSS
 - [Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) — teaching JavaScript, HTML and CSS in game form
-
+- [Fireship](https://www.youtube.com/c/AngularFirebase) - JavaScript, Flutter, Firebase, and modern app development
 ### Conferences and meetups recordings
 
 - [Confreaks](https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ)
