@@ -149,6 +149,7 @@ Feel free to make a pull request with missing channel.
 - [React NYC](https://www.youtube.com/channel/UC87H0RRqawG6I7oWAf9i48g)
 - [ReactEurope](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
 - [ReactiveConf](https://www.youtube.com/channel/UCBHdUnixTWymmXBIw12Y8Qg)
+- [ReactJS Vancouver Meetup](https://www.youtube.com/channel/UClX4QCEJnCFJGGuGdfBuqYw)
 - [ReactRally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 - [ScotlandJS](https://www.youtube.com/channel/UCpW0Vh7QKPA7n0oJfrizlsw)
 - [Script](https://www.youtube.com/channel/UCVbaJU4SUrQrrNs820aZAfQ)
