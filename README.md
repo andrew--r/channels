@@ -101,6 +101,7 @@ Feel free to make a pull request with missing channel.
 - [Wes Bos](https://www.youtube.com/user/wesbos) — Redux, Markdown, command line, Flexbox, Sublime Text
 - [Zaiste Programming](https://www.youtube.com/user/ohzaiste) - TypeScript/JavaScript & Node.js
 - [Zell Liew](https://www.youtube.com/user/zellwk) — tooling, tips & tricks
+- [Scaler Academy](https://www.youtube.com/ScalerAcademy) — All programming languages, framesworks, and technologies to scale-up in your career.
 
 ### Conferences and meetups recordings
 
