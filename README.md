@@ -267,7 +267,7 @@ Feel free to make a pull request with missing channel.
 
 - [BrazilJS](https://www.youtube.com/user/BrazilJS) — conferences recordings (BrazilJS, FrontInPOA, FrontInSM, RSJS), weekly podcast about JavaScript
 - [Css CastShow](https://www.youtube.com/channel/UC9d_htYmYYFUXB2vBKx4NgA) — CSS, Polymer
-- [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/) — HTML
+- [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/) — HTML, CSS, JavaScript, PHP, MySQL, WordPress, Git
 - [Fabio Vedovelli](https://www.youtube.com/user/vedovelli) — Vue.js
 - [João Ribeiro](https://www.youtube.com/user/JLDRPT) — HTML, CSS, Javascript, Angular, TypeScript
 - [Loiane Groner](https://www.youtube.com/user/Loianeg) — JavaScript, Angular 2, Phonegap/Cordova, CSS3, Sass, Compass
