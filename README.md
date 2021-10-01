@@ -327,5 +327,5 @@ Feel free to make a pull request with missing channel.
 
 - [Web Programming UNPAS](https://www.youtube.com/c/WebProgrammingUNPAS) — Special channel for discuss about internet technology and web development
 - [Erico Darmawan Handoyo](https://www.youtube.com/c/EricoDarmawanHandoyo) — Erico is an Youtuber that teach all about Flutter
-- [Ariya Hidayat](https://www.youtube.com/c/EricoDarmawanHandoyo) — Avid technology entusiast. Passionate about open-source!
+- [Ariya Hidayat](https://www.youtube.com/c/AriyaHidayat) — Avid technology entusiast. Passionate about open-source!
 - [Sekolah Koding](https://www.youtube.com/c/SekolahKoding) — Best programming tutorial channel for learn programming in Indonesia language
