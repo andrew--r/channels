@@ -89,6 +89,7 @@ Feel free to make a pull request with missing channel.
 - [SitePoint](https://www.youtube.com/user/SitePoint) — HTML, CSS, JavaScript, Sass, Web Design
 - [SketchpunkLabs](https://www.youtube.com/channel/UCSnyjB_8iVxi2ZAfn_1L6tA) — WebGL 2 screencasts
 - [Source Decoded](http://www.youtube.com/channel/UCl0hPcsUmeld49qmWWSQKOg) — JavaScript, Coding Principles
+- [Steve Griffith - Prof3ssorSt3v3](https://youtube.com/c/SteveGriffith-Prof3ssorSt3v3) - HTML, CSS, JavaScript, NodeJS, Git
 - [The Coding Train](https://www.youtube.com/user/shiffman) — a lot of interesting stuff on computer science and programming fundamentals
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) — ES6, Node.js, Angular, React, Vue, CSS, Sass
 - [The Web Platform Podcast](https://www.youtube.com/channel/UCjz3j22CyBpy6Qk5SL6UwcQ) — podcast about HTML, CSS, JavaScript, tools, workflow and much more
